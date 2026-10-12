@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>导师信息可视化平台 | 生物制造方向</title>
+<style>
+  :root {
+    --deep-blue: #0a1628;
+    --deep-blue-2: #112240;
+    --deep-blue-3: #1a3356;
+    --emerald: #00d4aa;
+    --emerald-dark: #00b894;
+    --emerald-light: #5eead4;
+    --bg: #f0f4f8;
+    --card: #ffffff;
+    --text: #1a2a3a;
+    --text-secondary: #5a6a7a;
+    --border: #e2e8f0;
+    --shadow: 0 2px 8px rgba(10,22,40,0.06), 0 1px 2px rgba(10,22,40,0.04);
+    --shadow-hover: 0 12px 32px rgba(10,22,40,0.12);
+    --radius: 14px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+                 "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* Header */
+  .header {
+    background: linear-gradient(135deg, var(--deep-blue) 0%, var(--deep-blue-3) 60%, #1e4976 100%);
+    color: #fff;
+    padding: 28px 20px 32px;
+    position: relative;
+    overflow: hidden;
+  }
+  .header::after {
+    content: "";
+    position: absolute;
+    top: -60px; right: -60px;
+    width: 200px; height: 200px;
+    background: radial-gradient(circle, rgba(0,212,170,0.25) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+  .header-inner { max-width: 1400px; margin: 0 auto; position: relative; z-index: 1; }
+  .header h1 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    letter-spacing: 0.5px;
+  }
+  .header .subtitle {
+    font-size: 13px;
+    opacity: 0.8;
+    color: var(--emerald-light);
+  }
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 12px;
+    margin-top: 20px;
+  }
+  .stat-card {
+    background: rgba(255,255,255,0.08);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(0,212,170,0.25);
+    border-radius: 12px;
+    padding: 14px 16px;
+    transition: transform 0.2s, border-color 0.2s;
+  }
+  .stat-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--emerald);
+  }
+  .stat-card .num {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--emerald);
+  }
+  .stat-card .label {
+    font-size: 12px;
+    opacity: 0.85;
+    margin-top: 4px;
+  }
+
+  /* Main layout */
+  .container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 18px 16px 30px;
+  }
+
+  /* Search + controls */
+  .controls-bar {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .search-box {
+    flex: 1;
+    min-width: 200px;
+    position: relative;
+  }
+  .search-box input {
+    width: 100%;
+    padding: 12px 16px 12px 44px;
+    border: 1.5px solid var(--border);
+    border-radius: 12px;
+    font-size: 15px;
+    background: var(--card);
+    box-shadow: var(--shadow);
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .search-box input:focus {
+    outline: none;
+    border-color: var(--emerald-dark);
+    box-shadow: 0 0 0 3px rgba(0,184,148,0.15);
+  }
+  .search-box::before {
+    content: "🔍";
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 15px;
+  }
+  .sort-select {
+    padding: 11px 14px;
+    border: 1.5px solid var(--border);
+    border-radius: 12px;
+    font-size: 14px;
+    background: var(--card);
+    box-shadow: var(--shadow);
+    cursor: pointer;
+  }
+  .reset-btn {
+    padding: 11px 16px;
+    border: 1.5px solid var(--border);
+    border-radius: 12px;
+    background: var(--card);
+    cursor: pointer;
+    font-size: 14px;
+    box-shadow: var(--shadow);
+    transition: all 0.2s;
+  }
+  .reset-btn:hover { background: var(--emerald); color: #fff; border-color: var(--emerald); }
+
+  /* Filter panel */
+  .filter-panel {
+    background: var(--card);
+    border-radius: var(--radius);
+    padding: 16px 18px;
+    margin-bottom: 18px;
+    box-shadow: var(--shadow);
+    border: 1px solid var(--border);
+  }
+  .filter-section { margin-bottom: 12px; }
+  .filter-section:last-child { margin-bottom: 0; }
+  .filter-label {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .filter-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    padding: 5px 12px;
+    border-radius: 16px;
+    border: 1px solid var(--border);
+    background: #fff;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.15s;
+    user-select: none;
+  }
+  .chip:hover { border-color: var(--emerald-dark); color: var(--emerald-dark); }
+  .chip.active {
+    background: var(--deep-blue-2);
+    color: #fff;
+    border-color: var(--deep-blue-2);
+  }
+  .chip .count {
+    color: var(--text-secondary);
+    font-size: 11px;
+    margin-left: 3px;
+    opacity: 0.7;
+  }
+  .chip.active .count { color: var(--emerald-light); }
+
+  /* Results count */
+  .result-info {
+    font-size: 14px;
+    color: var(--text-secondary);
+    margin-bottom: 14px;
+  }
+  .result-info strong { color: var(--emerald-dark); font-weight: 700; }
+
+  /* Card grid */
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 14px;
+  }
+  .card {
+    background: var(--card);
+    border-radius: var(--radius);
+    padding: 16px;
+    box-shadow: var(--shadow);
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: pointer;
+    border: 1px solid var(--border);
+    position: relative;
+    overflow: hidden;
+  }
+  .card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-hover);
+    border-color: var(--emerald);
+  }
+  .card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 8px;
+  }
+  .card-name {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--deep-blue);
+  }
+  .card-titles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-top: 6px;
+  }
+  .title-tag {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 10px;
+    background: #e8f0fe;
+    color: #1a73e8;
+    font-weight: 500;
+  }
+  .title-tag.academician {
+    background: linear-gradient(135deg, #ff6b6b, #c5221f);
+    color: #fff;
+  }
+  .title-tag.talent {
+    background: linear-gradient(135deg, #ffd54f, #ff8f00);
+    color: #5d4037;
+  }
+  .title-tag.professor {
+    background: linear-gradient(135deg, #81c784, #2e7d32);
+    color: #fff;
+  }
+  .title-tag.associate {
+    background: linear-gradient(135deg, #90caf9, #1565c0);
+    color: #fff;
+  }
+  .card-institute {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-bottom: 6px;
+  }
+  .card-discipline {
+    font-size: 12px;
+    color: var(--emerald-dark);
+    margin-bottom: 8px;
+    font-weight: 600;
+  }
+  .card-research {
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.55;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 10px;
+    min-height: 58px;
+  }
+  .card-research.empty { color: #bbb; font-style: italic; }
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    border-top: 1px solid var(--border);
+  }
+  .card-link {
+    font-size: 12px;
+    color: var(--emerald-dark);
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .card-link:hover { text-decoration: underline; }
+  .card-code {
+    font-size: 11px;
+    color: var(--text-secondary);
+    background: #f1f5f9;
+    padding: 2px 8px;
+    border-radius: 8px;
+  }
+  /* 顶刊标签 */
+  .top-papers-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-top: 8px;
+    align-items: center;
+  }
+  .paper-badge {
+    font-size: 11px;
+    color: #7b1fa2;
+    font-weight: 700;
+  }
+  .top-paper-tag {
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #ce93d8, #6a1b9a);
+    color: #fff;
+    font-weight: 500;
+  }
+
+  /* Modal */
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(10,22,40,0.6);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+  }
+  .modal-overlay.show { display: flex; }
+  .modal {
+    background: #fff;
+    border-radius: 16px;
+    max-width: 620px;
+    width: 100%;
+    max-height: 85vh;
+    overflow-y: auto;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    animation: modalIn 0.25s ease;
+  }
+  @keyframes modalIn {
+    from { opacity: 0; transform: translateY(20px) scale(0.97); }
+    to { opacity: 1; transform: translateY(0) scale(1); }
+  }
+  .modal-header {
+    padding: 20px 24px 14px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background: linear-gradient(135deg, var(--deep-blue-2), var(--deep-blue-3));
+    color: #fff;
+    border-radius: 16px 16px 0 0;
+  }
+  .modal-name { font-size: 24px; font-weight: 700; }
+  .modal-close {
+    background: none; border: none;
+    font-size: 24px; cursor: pointer;
+    color: rgba(255,255,255,0.7);
+    padding: 0; line-height: 1;
+  }
+  .modal-close:hover { color: #fff; }
+  .modal-body { padding: 18px 24px 24px; }
+  .modal-section { margin-bottom: 16px; }
+  .modal-section-label {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--emerald-dark);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+  .modal-section-content { font-size: 14px; color: var(--text); }
+  .modal-titles { display: flex; flex-wrap: wrap; gap: 6px; }
+  .modal-research {
+    background: #f8fafc;
+    border-left: 3px solid var(--emerald);
+    border-radius: 8px;
+    padding: 12px 14px;
+    font-size: 14px;
+    line-height: 1.7;
+  }
+
+  /* Empty state */
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text-secondary);
+  }
+  .empty-state .icon { font-size: 48px; margin-bottom: 12px; }
+
+  /* Loading */
+  .loading { text-align: center; padding: 60px; color: var(--text-secondary); }
+  .spinner {
+    display: inline-block;
+    width: 36px; height: 36px;
+    border: 3px solid var(--border);
+    border-top-color: var(--emerald-dark);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin-bottom: 12px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 22px 16px;
+    color: var(--text-secondary);
+    font-size: 13px;
+    border-top: 1px solid var(--border);
+    margin-top: 30px;
+    background: var(--deep-blue);
+    color: rgba(255,255,255,0.7);
+  }
+  .footer a {
+    color: var(--emerald);
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .footer a:hover { text-decoration: underline; }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .header h1 { font-size: 20px; }
+    .stats-row { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    .stat-card { padding: 12px 14px; }
+    .stat-card .num { font-size: 22px; }
+    .container { padding: 14px; }
+    .card-grid { grid-template-columns: 1fr; }
+    .controls-bar { gap: 8px; }
+    .sort-select, .reset-btn { flex: 1; }
+    .modal { margin: 10px; }
+    .modal-header { padding: 16px 18px 12px; }
+    .modal-body { padding: 14px 18px 18px; }
+  }
+  @media (max-width: 420px) {
+    .stats-row { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header class="header">
+  <div class="header-inner">
+    <h1>🎓 导师信息可视化平台</h1>
+    <div class="subtitle">生物制造方向 · 中国科学院系统导师检索与筛选</div>
+    <div class="stats-row" id="statsRow">
+      <div class="stat-card"><div class="num" id="statTotal">—</div><div class="label">导师总数</div></div>
+      <div class="stat-card"><div class="num" id="statInstitute">—</div><div class="label">涉及研究所</div></div>
+      <div class="stat-card"><div class="num" id="statDiscipline">—</div><div class="label">学科门类</div></div>
+      <div class="stat-card"><div class="num" id="statAcademician">—</div><div class="label">中科院院士</div></div>
+      <div class="stat-card"><div class="num" id="statTalent">—</div><div class="label">杰青/优青等</div></div>
+      <div class="stat-card"><div class="num" id="statTopPaper">—</div><div class="label">近3年有顶刊</div></div>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+  <div class="controls-bar">
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="搜索导师姓名、研究所、学科、研究方向或顶刊...">
+    </div>
+    <select class="sort-select" id="sortSelect">
+      <option value="name-asc">姓名 ↑</option>
+      <option value="name-desc">姓名 ↓</option>
+      <option value="institute-asc">研究所 A→Z</option>
+      <option value="discipline-asc">学科 A→Z</option>
+      <option value="top-desc">顶刊数量 ↓</option>
+    </select>
+    <button class="reset-btn" id="resetBtn">重置筛选</button>
+  </div>
+
+  <div class="filter-panel" id="filterPanel">
+    <div class="filter-section">
+      <div class="filter-label">研究所</div>
+      <div class="filter-chips" id="instituteChips"></div>
+    </div>
+    <div class="filter-section">
+      <div class="filter-label">学科</div>
+      <div class="filter-chips" id="disciplineChips"></div>
+    </div>
+    <div class="filter-section">
+      <div class="filter-label">头衔</div>
+      <div class="filter-chips" id="titleChips"></div>
+    </div>
+    <div class="filter-section">
+      <div class="filter-label">近3年顶刊</div>
+      <div class="filter-chips" id="topPaperFilter">
+        <span class="chip" data-type="hasPaper" data-value="1">有顶刊发表 <span class="count" id="hasPaperCount">0</span></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="result-info" id="resultInfo"></div>
+  <div id="contentArea">
+    <div class="loading"><div class="spinner"></div><div>正在加载导师数据...</div></div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal" id="modal">
+    <div class="modal-header">
+      <div>
+        <div class="modal-name" id="modalName"></div>
+        <div class="modal-titles" id="modalTitles" style="margin-top:8px"></div>
+      </div>
+      <button class="modal-close" id="modalClose">×</button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
+</div>
+
+<div class="footer">
+  数据来源：Book1.xlsx · 共 <span id="footerTotal">0</span> 位导师 ·
+  作者 <a href="https://github.com/zyTi870" target="_blank" rel="noopener">Tiz</a> ·
+  部署于 GitHub Pages
+</div>
+
+<script>
+const state = {
+  data: [],
+  filtered: [],
+  search: "",
+  selectedInstitutes: new Set(),
+  selectedDisciplines: new Set(),
+  selectedTitles: new Set(),
+  hasPaper: false,
+  sortBy: "name-asc",
+};
+
+async function loadData() {
+  try {
+    const res = await fetch("data.json");
+    state.data = await res.json();
+    init();
+  } catch (e) {
+    document.getElementById("contentArea").innerHTML =
+      '<div class="empty-state"><div class="icon">⚠️</div><div>数据加载失败，请确保 data.json 与 index.html 在同一目录。</div></div>';
+  }
+}
+
+function init() {
+  renderStats();
+  buildFilters();
+  bindEvents();
+  applyFilters();
+}
+
+function renderStats() {
+  const d = state.data;
+  document.getElementById("statTotal").textContent = d.length;
+  document.getElementById("statInstitute").textContent =
+    new Set(d.map(x => x.institute).filter(Boolean)).size;
+  document.getElementById("statDiscipline").textContent =
+    new Set(d.map(x => x.discipline).filter(Boolean)).size;
+  document.getElementById("statAcademician").textContent =
+    d.filter(x => (x.titles || []).includes("中国科学院院士")).length;
+  const talentTags = ["国家杰出青年科学基金", "国家优秀青年科学基金", "长江学者",
+                      "国家万人计划", "青年千人", "科技部创新领军人才", "中科院百人计划"];
+  document.getElementById("statTalent").textContent =
+    d.filter(x => (x.titles || []).some(t => talentTags.includes(t))).length;
+  document.getElementById("statTopPaper").textContent =
+    d.filter(x => (x.top_papers || []).length).length;
+  document.getElementById("footerTotal").textContent = d.length;
+}
+
+function buildFilters() {
+  const d = state.data;
+  const instCount = {}, discCount = {}, titleCount = {};
+  d.forEach(r => {
+    if (r.institute) instCount[r.institute] = (instCount[r.institute] || 0) + 1;
+    if (r.discipline) discCount[r.discipline] = (discCount[r.discipline] || 0) + 1;
+    (r.titles || []).forEach(t => { titleCount[t] = (titleCount[t] || 0) + 1; });
+  });
+  renderChips("instituteChips", instCount, "institute");
+  renderChips("disciplineChips", discCount, "discipline");
+  renderChips("titleChips", titleCount, "title");
+  const hasPaperCnt = d.filter(x => (x.top_papers || []).length).length;
+  document.getElementById("hasPaperCount").textContent = hasPaperCnt;
+}
+
+function renderChips(containerId, countObj, type) {
+  const container = document.getElementById(containerId);
+  const sorted = Object.entries(countObj).sort((a, b) => b[1] - a[1]);
+  container.innerHTML = "";
+  sorted.forEach(([val, cnt]) => {
+    const chip = document.createElement("span");
+    chip.className = "chip";
+    chip.dataset.value = val;
+    chip.dataset.type = type;
+    chip.innerHTML = `${val}<span class="count">${cnt}</span>`;
+    chip.addEventListener("click", () => toggleChip(type, val, chip));
+    container.appendChild(chip);
+  });
+}
+
+function toggleChip(type, value, el) {
+  const set = type === "institute" ? state.selectedInstitutes
+            : type === "discipline" ? state.selectedDisciplines
+            : state.selectedTitles;
+  if (set.has(value)) { set.delete(value); el.classList.remove("active"); }
+  else { set.add(value); el.classList.add("active"); }
+  applyFilters();
+}
+
+function applyFilters() {
+  const q = state.search.trim().toLowerCase();
+  state.filtered = state.data.filter(r => {
+    if (state.selectedInstitutes.size && !state.selectedInstitutes.has(r.institute)) return false;
+    if (state.selectedDisciplines.size && !state.selectedDisciplines.has(r.discipline)) return false;
+    if (state.selectedTitles.size) {
+      const has = (r.titles || []).some(t => state.selectedTitles.has(t));
+      if (!has) return false;
+    }
+    if (state.hasPaper && !(r.top_papers || []).length) return false;
+    if (q) {
+      const hay = [r.name, r.institute, r.discipline, r.direction,
+                   (r.titles || []).join(" "),
+                   r.research || "",
+                   (r.top_papers || []).join(" ")].join(" ").toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+  sortData();
+  render();
+}
+
+function sortData() {
+  const s = state.sortBy;
+  state.filtered.sort((a, b) => {
+    if (s === "name-asc") return a.name.localeCompare(b.name, "zh");
+    if (s === "name-desc") return b.name.localeCompare(a.name, "zh");
+    if (s === "institute-asc") return (a.institute || "").localeCompare(b.institute || "", "zh");
+    if (s === "discipline-asc") return (a.discipline || "").localeCompare(b.discipline || "", "zh");
+    if (s === "top-desc") return (b.top_papers || []).length - (a.top_papers || []).length;
+    return 0;
+  });
+}
+
+function render() {
+  const area = document.getElementById("contentArea");
+  const list = state.filtered;
+  document.getElementById("resultInfo").innerHTML =
+    `共找到 <strong>${list.length}</strong> 位导师${state.data.length !== list.length ? `（共 ${state.data.length} 位）` : ""}`;
+  if (list.length === 0) {
+    area.innerHTML = `<div class="empty-state"><div class="icon">🔍</div><div>没有匹配的导师，请调整筛选条件。</div></div>`;
+    return;
+  }
+  const cards = list.map(cardHTML).join("");
+  area.innerHTML = `<div class="card-grid">${cards}</div>`;
+  area.querySelectorAll(".card").forEach((el, i) => {
+    el.addEventListener("click", () => openModal(list[i]));
+  });
+}
+
+function titleTagClass(t) {
+  if (t.includes("院士")) return "title-tag academician";
+  const talent = ["杰青", "优青", "长江", "万人", "千人", "百人", "领军"];
+  if (talent.some(k => t.includes(k))) return "title-tag talent";
+  if (t.includes("副研究员") || t.includes("副教授")) return "title-tag associate";
+  if (t.includes("教授") || t.includes("研究员")) return "title-tag professor";
+  return "title-tag";
+}
+
+function cardHTML(r) {
+  const titles = (r.titles || []).map(t =>
+    `<span class="${titleTagClass(t)}">${t}</span>`).join("");
+  const research = r.research
+    ? `<div class="card-research">${escapeHtml(r.research)}</div>`
+    : `<div class="card-research empty">暂无研究方向信息</div>`;
+  const topPapers = (r.top_papers || []).length
+    ? `<div class="top-papers-row">
+         <span class="paper-badge">📄</span>
+         ${(r.top_papers || []).slice(0, 3).map(p => `<span class="top-paper-tag">${escapeHtml(p)}</span>`).join("")}
+         ${(r.top_papers || []).length > 3 ? `<span class="top-paper-tag">+${(r.top_papers || []).length - 3}</span>` : ""}
+       </div>`
+    : "";
+  const link = r.homepage
+    ? `<a class="card-link" href="${escapeAttr(r.homepage)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">访问主页 ↗</a>`
+    : `<span class="card-link" style="color:#bbb">暂无主页</span>`;
+  const code = r.code ? `<span class="card-code">${r.code}</span>` : "";
+  return `
+    <div class="card">
+      <div class="card-top">
+        <div>
+          <div class="card-name">${escapeHtml(r.name)}</div>
+          <div class="card-titles">${titles}</div>
+        </div>
+      </div>
+      <div class="card-institute">🏛️ ${escapeHtml(r.institute || "—")}</div>
+      <div class="card-discipline">📚 ${escapeHtml(r.discipline || "—")} ${code}</div>
+      ${research}
+      ${topPapers}
+      <div class="card-footer">
+        ${link}
+        <span style="font-size:11px;color:#999">查看详情</span>
+      </div>
+    </div>
+  `;
+}
+
+function openModal(r) {
+  document.getElementById("modalName").textContent = r.name;
+  document.getElementById("modalTitles").innerHTML =
+    (r.titles || []).map(t => `<span class="${titleTagClass(t)}">${t}</span>`).join("");
+  const sections = [];
+  sections.push(sectionHTML("研究所", r.institute || "—"));
+  sections.push(sectionHTML("学科", (r.discipline || "—") + (r.code ? `（代码：${r.code}）` : "")));
+  sections.push(sectionHTML("研究方向类别", r.direction || "—"));
+  sections.push(sectionHTML("详细研究方向",
+    r.research ? `<div class="modal-research">${escapeHtml(r.research)}</div>` : "暂无"));
+  if ((r.top_papers || []).length) {
+    sections.push(sectionHTML("近3年顶刊发表",
+      `<div class="top-papers-row" style="margin-top:0">
+        ${r.top_papers.map(p => `<span class="top-paper-tag">${escapeHtml(p)}</span>`).join("")}
+      </div>`));
+  }
+  sections.push(sectionHTML("个人主页",
+    r.homepage ? `<a href="${escapeAttr(r.homepage)}" target="_blank" rel="noopener">${escapeHtml(r.homepage)}</a>` : "暂无"));
+  document.getElementById("modalBody").innerHTML = sections.join("");
+  document.getElementById("modalOverlay").classList.add("show");
+}
+
+function sectionHTML(label, content) {
+  return `<div class="modal-section">
+    <div class="modal-section-label">${label}</div>
+    <div class="modal-section-content">${content}</div>
+  </div>`;
+}
+
+function closeModal() {
+  document.getElementById("modalOverlay").classList.remove("show");
+}
+
+function escapeHtml(s) {
+  const div = document.createElement("div");
+  div.textContent = s;
+  return div.innerHTML;
+}
+function escapeAttr(s) {
+  return String(s).replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+}
+
+function bindEvents() {
+  document.getElementById("searchInput").addEventListener("input", e => {
+    state.search = e.target.value;
+    applyFilters();
+  });
+  document.getElementById("sortSelect").addEventListener("change", e => {
+    state.sortBy = e.target.value;
+    applyFilters();
+  });
+  document.getElementById("resetBtn").addEventListener("click", resetFilters);
+  document.getElementById("modalClose").addEventListener("click", closeModal);
+  document.getElementById("modalOverlay").addEventListener("click", e => {
+    if (e.target.id === "modalOverlay") closeModal();
+  });
+  document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
+  const paperChip = document.querySelector('[data-type="hasPaper"]');
+  if (paperChip) {
+    paperChip.addEventListener("click", () => {
+      state.hasPaper = !state.hasPaper;
+      paperChip.classList.toggle("active", state.hasPaper);
+      applyFilters();
+    });
+  }
+}
+
+function resetFilters() {
+  state.search = "";
+  state.hasPaper = false;
+  state.selectedInstitutes.clear();
+  state.selectedDisciplines.clear();
+  state.selectedTitles.clear();
+  document.getElementById("searchInput").value = "";
+  document.querySelectorAll(".chip.active").forEach(c => c.classList.remove("active"));
+  applyFilters();
+}
+
+loadData();
+</script>
+</body>
+</html>

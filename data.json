@@ -1,0 +1,4278 @@
+[
+  {
+    "direction": "生物制造",
+    "name": "许毅",
+    "institute": "上海光学精密机械研究所",
+    "homepage": "https://people.ucas.ac.cn/~0052633",
+    "discipline": "物理学",
+    "code": "702",
+    "titles": [
+      "研究员"
+    ],
+    "research": "超强超短激光装置的研制和关键技术研究，主持研制多套高峰值功率超强超短激光装置。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "丁克",
+    "institute": "上海有机化学研究所",
+    "homepage": "https://sioc.cas.cn/sourcedb/cn/team/yjy/202201/t20220104_6773125.html",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "创新药物研究（药物化学生物学），聚焦不可成药靶点如转录因子ERG的小分子调控。",
+    "_scraped": false,
+    "top_papers": [
+      "JACS 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "俞飚",
+    "institute": "上海有机化学研究所",
+    "homepage": "http://biaoyu.sioc.ac.cn/html/index.html",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "中国科学院院士",
+      "研究员"
+    ],
+    "research": "复杂寡糖、糖缀合物及天然产物的全合成、合成方法学及化学生物学研究。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Structural & Molecular Biology 2025",
+      "Nature Communications 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘聪",
+    "institute": "上海有机化学研究所",
+    "homepage": "https://sioc.cas.cn/sourcedb/cn/team/jq/201307/t20130722_6773136.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "神经退行性疾病中关键致病蛋白质的相分离与病理聚集研究，开发小分子识别与调控策略。",
+    "_scraped": false,
+    "top_papers": [
+      "Science 2025",
+      "Nature Structural & Molecular Biology 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "周界文",
+    "institute": "上海有机化学研究所",
+    "homepage": "http://www.sioc.ac.cn/jameschou/people/current/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "教授"
+    ],
+    "research": "跨膜受体的信号传导机理和病毒与宿主膜融合机制研究，以及新型免疫治疗调控剂和多特异性药物递送体系发现。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature 2026",
+      "PNAS 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李昂",
+    "institute": "上海有机化学研究所",
+    "homepage": "http://angligroup.sioc.ac.cn/",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金"
+    ],
+    "research": "天然产物全合成和作用机制研究，发展广义仿生合成策略。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "潘李锋",
+    "institute": "上海有机化学研究所",
+    "homepage": "http://panlf.sioc.ac.cn",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员",
+      "青年千人"
+    ],
+    "research": "蛋白质的化学生物学和结构生物学，研究与癌症、神经退行性疾病相关的细胞自噬通路及E3泛素酶结构与作用机制。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "王婧",
+    "institute": "上海有机化学研究所",
+    "homepage": "http://biaoyu.sioc.ac.cn/html/profiles/wang_jing.html",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员",
+      "教授"
+    ],
+    "research": "围绕MiT/TFE转录因子家族探索特异靶向机制，发现靶向自噬关键转录因子TFEB和MITF的小分子化合物研发。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "王震",
+    "institute": "上海有机化学研究所",
+    "homepage": "https://sioc.cas.cn/sourcedb/cn/team/yjy/202111/t20211111_6773124.html",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员",
+      "中科院百人计划"
+    ],
+    "research": "抗肿瘤靶向小分子药物设计与合成，激酶抑制剂及激酶非催化功能发现和小分子调控。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "陈以昀",
+    "institute": "上海有机化学研究所",
+    "homepage": "http://yiyunchen.sioc.ac.cn/index.htm",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员",
+      "教授"
+    ],
+    "research": "生物相容性光化学，发展新型有机光化学反应技术并推动其在生物体系中的应用。",
+    "_scraped": false,
+    "top_papers": [
+      "JACS 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "马大为",
+    "institute": "上海有机化学研究所",
+    "homepage": "https://sioc.cas.cn/sourcedb/cn/team/ys/200906/t20090621_6770733.html",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "中国科学院院士",
+      "研究员"
+    ],
+    "research": "复杂天然产物全合成及构效关系、有机合成方法学和其在合成生物活性分子中的应用。",
+    "_scraped": false,
+    "top_papers": [
+      "Angew 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "黄晓宇",
+    "institute": "上海有机化学研究所",
+    "homepage": "https://sioc.cas.cn/sourcedb/cn/team/jq/200906/t20090621_6773137.html",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金"
+    ],
+    "research": "高分子合成化学和高分子材料性能的研究，有机功能材料。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘莉",
+    "institute": "上海高等研究院",
+    "homepage": "https://sari.cas.cn/gradedu/szdw/lshx/dtswzh/yjsds/202507/t20250708_7881816.html",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物质能源、环境微生物及有机固废生物转化，合成微生物菌群驱动有机固废定向生物转化。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "孙俊松",
+    "institute": "上海高等研究院",
+    "homepage": "https://people.ucas.edu.cn/~sunjs",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "酶工程与微生物代谢工程，生物能源制造相关的微生物分子改造。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "张保国",
+    "institute": "上海高等研究院",
+    "homepage": "http://sari.cas.cn/gradedu/szdw/lshx/dtswzh/",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "微生物代谢工程与合成生物学，新型甾体药物绿色生物合成。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "滕飞",
+    "institute": "中国科学院大学医学院",
+    "homepage": "https://people.ucas.ac.cn/~0069099",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "副教授"
+    ],
+    "research": "靶向蛋白降解技术，开发可跨越血脑屏障的SPYTAC技术清除阿尔茨海默病Aβ蛋白。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "苗苗",
+    "institute": "中国科学院大学医学院",
+    "homepage": "https://people.ucas.ac.cn/~miaomiao",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "教授"
+    ],
+    "research": "真核微生物的基因组及进化，原生生物学，聚焦纤毛虫与细菌共生关系。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "王玉文",
+    "institute": "中国科学院大学杭州高等研究院",
+    "homepage": "http://hias.ucas.ac.cn/hxyclkxxy/info/1384/1492.htm",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "主族元素（特别是第13和14族元素）化学和金属有机化学，设计合成高活性低价主族元素化合物。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "王玉文",
+    "institute": "中国科学院大学杭州高等研究院",
+    "homepage": "",
+    "discipline": "",
+    "code": "",
+    "titles": [
+      "研究员"
+    ],
+    "research": "主族元素（特别是第13和14族元素）化学和金属有机化学，设计合成高活性低价主族元素化合物。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "高利增",
+    "institute": "中国科学院生物物理研究所",
+    "homepage": "",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "纳米酶设计开发及其生物医学应用，铁硫生物活性材料，仿生抗菌新策略。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Microbiology 2025",
+      "Nature Communications 2024",
+      "Nature Reviews Bioengineering 2024",
+      "ACS Nano 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "于乐谦",
+    "institute": "动物研究所",
+    "homepage": "http://sklorr.ioz.ac.cn/kydw/yjtd/yuleqian/",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员"
+    ],
+    "research": "利用多能干细胞与微流控等技术构建人类早期胚胎发育模型，研究早期胚胎发育生理病理。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell 2024",
+      "Cell 2025",
+      "Cell Stem Cell 2025",
+      "Nature Cell Biology 2025",
+      "Cell 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "任仙文",
+    "institute": "动物研究所",
+    "homepage": "https://ioz.cas.cn/sourcedb/zw/zjrc/202508/t20250805_7900954.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员"
+    ],
+    "research": "单细胞与空间组学技术开发，单细胞分辨率细胞空间关系重构，感染与肿瘤免疫学。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘光慧",
+    "institute": "动物研究所",
+    "homepage": "https://ioz.cas.cn/sourcedb/zw/zjrc/201905/t20190514_5294619.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员"
+    ],
+    "research": "人类衰老的遗传和表观遗传信息解码，衰老机制及调控，延缓衰老和防治老年疾病。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell 2025",
+      "Nature Communications 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘长梅",
+    "institute": "动物研究所",
+    "homepage": "https://ioz.cas.cn/sourcedb/zw/zjrc/201501/t20150122_4303156.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "神经发生、神经再生、神经退行性疾病与神经发育疾病相关研究。",
+    "_scraped": false,
+    "top_papers": [
+      "Advanced Science 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "周航",
+    "institute": "动物研究所",
+    "homepage": "https://ioz.cas.cn/sourcedb/zw/zjrc/202411/t20241129_7448373.html",
+    "discipline": "生物医学工程",
+    "code": "831",
+    "titles": [
+      "研究员"
+    ],
+    "research": "基于测序微米级芯片的空间组学技术，解析疫源动物组织空间组学。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "宋默识",
+    "institute": "动物研究所",
+    "homepage": "https://www.ioz.cas.cn/sourcedb/zw/zjrc/201808/t20180807_5053266.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员"
+    ],
+    "research": "线粒体调控心脏衰老及相关疾病的机制与干预。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Aging 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "张顺",
+    "institute": "动物研究所",
+    "homepage": "http://ioz.cas.cn/sourcedb/zw/zjrc/202304/t20230427_6746928.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员"
+    ],
+    "research": "血管化微生理病理系统的构建及应用。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "曲静",
+    "institute": "动物研究所",
+    "homepage": "https://ioz.cas.cn/staff/zh/qujinglab.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "器官衰老和再生，机体衰老及衰老性疾病的细胞分子机理，干细胞衰老调控。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李伟",
+    "institute": "动物研究所",
+    "homepage": "",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员"
+    ],
+    "research": "基因组工程与基因治疗，哺乳动物工程生物学，重大疾病的基因治疗。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李杨",
+    "institute": "动物研究所",
+    "homepage": "https://ioz.cas.cn/sourcedb/zw/zjrc/202109/t20210906_6191006.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "抗病毒免疫反应调控的分子机制，病原传播机制，病毒和宿主的相互作用。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell Reports 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "焦建伟",
+    "institute": "动物研究所",
+    "homepage": "http://www.ioz.cas.cn/sourcedb/zw/zjrc/201111/t20111129_3403493.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金",
+      "教授"
+    ],
+    "research": "神经干细胞增殖与分化，神经发生，神经元转分化。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "王红梅",
+    "institute": "动物研究所",
+    "homepage": "http://sklorr.ioz.ac.cn/kydw/yjtd/wanghongmei/jj/",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金",
+      "国家万人计划"
+    ],
+    "research": "灵长类早期胚胎发育、胎盘发育及干细胞与生育力的维持和重建。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell 2025",
+      "Cell 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "胡宝洋",
+    "institute": "动物研究所",
+    "homepage": "https://ioz.cas.cn/sourcedb/zw/zjrc/201104/t20110428_3122823.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员",
+      "长江学者"
+    ],
+    "research": "干细胞与再生医学，脑发育与疾病、干细胞分化及临床应用。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "苗一非",
+    "institute": "动物研究所",
+    "homepage": "https://ioz.cas.cn/sourcedb/zw/zjrc/202502/t20250214_7527719.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员"
+    ],
+    "research": "利用胚胎干细胞和诱导多能干细胞分化的细胞和类器官模型，进行血管及心肺系统的生理病生理体外模拟和疾病机制探索。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "詹祥江",
+    "institute": "动物研究所",
+    "homepage": "http://www.ioz.cas.cn/sourcedb/zw/zjrc/201402/t20140210_4031457.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金"
+    ],
+    "research": "鸟类迁徙行为学、濒危鸟类保护生物学及极端环境物种进化遗传学。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "赵同标",
+    "institute": "动物研究所",
+    "homepage": "https://ioz.cas.cn/staff/zh/tbzhao.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员",
+      "科技部创新领军人才",
+      "教授"
+    ],
+    "research": "干细胞与免疫学，干细胞移植免疫和干细胞转化，肿瘤免疫治疗技术开发。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "赵建国",
+    "institute": "动物研究所",
+    "homepage": "https://ioz.cas.cn/sourcedb/zw/zjrc/201005/t20100525_2854555.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "猪功能基因解析和突变体创制，猪基因组编辑，大动物疾病模型建立。",
+    "_scraped": false,
+    "top_papers": [
+      "Communications Biology 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "赵志磊",
+    "institute": "动物研究所",
+    "homepage": "https://ioz.cas.cn/sourcedb/zw/zjrc/202511/t20251103_8005228.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "重要非模式动物如伊蚊和鹦鹉科鸟类的独特行为与神经机制。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "邹振",
+    "institute": "动物研究所",
+    "homepage": "https://ioz.cas.cn/sourcedb/zw/zjrc/201208/t20120813_3626347.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "昆虫分子生物学和媒介生物学，昆虫天然免疫和发育，蚊虫生殖调控。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "郑爱华",
+    "institute": "动物研究所",
+    "homepage": "https://ioz.cas.cn/sourcedb/zw/zjrc/201504/t20150414_4336474.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "中科院百人计划"
+    ],
+    "research": "病毒学，登革和寨卡等虫媒病毒通过媒介传播的机制，虫媒病毒感染和跨种传播。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "韩玉岭",
+    "institute": "动物研究所",
+    "homepage": "http://www.ioz.cas.cn/sourcedb/zw/zjrc/202402/t20240220_6990994.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "利用人类多能干细胞培育多种功能类器官，研究传染病发病机制及治疗策略。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "顾奇",
+    "institute": "动物研究所",
+    "homepage": "https://www.gulab.info/",
+    "discipline": "生物医学工程",
+    "code": "831",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金",
+      "中科院百人计划"
+    ],
+    "research": "生物3D打印与器官制造，干细胞特异材料及打印平台开发，组织器官的体外再造。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "乔燕",
+    "institute": "化学研究所",
+    "homepage": "http://qiaolab.iccas.ac.cn/",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金",
+      "教授"
+    ],
+    "research": "人工细胞的构筑及其类细胞行为研究，仿生膜化人工细胞。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Chemistry 2024",
+      "Nature Chemistry 2025",
+      "Nature Communications 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "付年凯",
+    "institute": "化学研究所",
+    "homepage": "funiankai.iccas.ac.cn",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "电化学有机合成，不对称催化，有机合成方法学。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘会贞",
+    "institute": "化学研究所",
+    "homepage": "https://www.labxing.com/liuhz@iccas.ac.cn",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "催化材料设计制备，生物质及CO2高效转化，绿色化学。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2024",
+      "The Innovation 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "吕雪光",
+    "institute": "化学研究所",
+    "homepage": "http://xueguang.iccas.ac.cn/",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "吸入式核酸递送载体，纳米材料与生物界面相互作用，传染病与肿瘤疫苗，小核酸药物载体。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "吕雪光",
+    "institute": "化学研究所",
+    "homepage": "http://xueguang.iccas.ac.cn",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "吸入式核酸递送载体，纳米材料与生物界面相互作用，传染病与肿瘤疫苗，小核酸药物载体。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "吴海臣",
+    "institute": "化学研究所",
+    "homepage": "http://haichen.iccas.ac.cn",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "国家杰出青年科学基金",
+      "研究员"
+    ],
+    "research": "纳米孔单分子技术，液体活检，生物标志物检测，活体单细胞原位监测。",
+    "_scraped": false,
+    "top_papers": [
+      "Angew. Chem. Int. Ed. 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "孙晓甫",
+    "institute": "化学研究所",
+    "homepage": "http://hanbx.iccas.ac.cn/sunxiaofu",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "惰性化学键活化转化，可再生碳氮资源转化利用，电化学CO2/硝酸盐还原制高值化学品。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Chem 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "孟庆元",
+    "institute": "化学研究所",
+    "homepage": "http://mengqingyuan.iccas.ac.cn/",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "光催化剂设计与合成，气体分子（CO2等）光化学转化，功能分子光化学合成。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "宋延林",
+    "institute": "化学研究所",
+    "homepage": "http://ylsong.iccas.ac.cn/",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "纳米功能材料、光子晶体与绿色印刷材料，印刷制备光电器件，钙钛矿光伏。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature 2026",
+      "Adv. Mater. 2025",
+      "JACS 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "张纯喜",
+    "institute": "化学研究所",
+    "homepage": "http://lpcas.iccas.ac.cn/document.action?docid=61685",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "自然与人工光合作用水裂解催化中心（OEC）的合成、结构与机理。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "汪铭",
+    "institute": "化学研究所",
+    "homepage": "mingwang.iccas.ac.cn",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "化学生物学，药物递送，蛋白质组学，靶向蛋白质降解与CRISPR基因编辑。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王树",
+    "institute": "化学研究所",
+    "homepage": "http://wangshu.iccas.ac.cn",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "导电高分子设计合成与生物传感，生物自组装体系抗菌抗肿瘤，生物电子与化学生物学。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "白书明",
+    "institute": "化学研究所",
+    "homepage": "https://baishuming.iccas.ac.cn/baishuming.iccas.ac.cn",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "理论化学与AI化学，复杂体系多尺度模拟，激发态动力学理论计算与调控。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "白昊天",
+    "institute": "化学研究所",
+    "homepage": "http://wangshu.iccas.ac.cn/54",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "共轭分子材料的生物电子转移调控与功能，共轭聚合物光催化体系调控细菌生物电子过程。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "程靓",
+    "institute": "化学研究所",
+    "homepage": "https://people.ucas.edu.cn/~chengl",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "化学生物学、生物有机化学、RNA治疗，生物大分子化学修饰与生物正交化学，基因编辑工具。",
+    "_scraped": true,
+    "top_papers": [
+      "Angew. Chem. Int. Ed. 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "许子豪",
+    "institute": "化学研究所",
+    "homepage": "https://people.ucas.ac.cn/~zxu",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "量子点合成与光电器件，超快光谱解析激发态动力学，反应动力学。",
+    "_scraped": true,
+    "top_papers": [
+      "JACS 2024",
+      "Angew. Chem. Int. Ed. 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "贾迪",
+    "institute": "化学研究所",
+    "homepage": "http://jiadi11.iccas.ac.cn",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "多尺度自组装带电软物质，动态键凝胶体系多级松弛动力学，受限环境下带电大分子行为。",
+    "_scraped": false,
+    "top_papers": [
+      "Small 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "邱东",
+    "institute": "化学研究所",
+    "homepage": "http://dqiu.iccas.ac.cn； https://people.ucas.ac.cn/~dqiu",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "胶体与高分子相互作用，有机无机杂化生物医用材料，功能性微凝胶，先进散射表征。",
+    "_scraped": false,
+    "top_papers": [
+      "Adv. Mater. 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "韩布兴",
+    "institute": "化学研究所",
+    "homepage": "http://hanbx.iccas.ac.cn",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "中国科学院院士",
+      "研究员"
+    ],
+    "research": "绿色化学与物理化学交叉，离子液体/超临界流体体系热力学，CO2与生物质催化转化。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Chem 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "侍骏超",
+    "institute": "北京基因组研究所（国家生物信息中心）",
+    "homepage": "https://www.shi-lab.net/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "非编码小RNA组学，tsRNA/rsRNA发现及其修饰的表观调控机制，疾病诊断标志物。",
+    "_scraped": false,
+    "top_papers": [
+      "Genes & Diseases 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "康禹",
+    "institute": "北京基因组研究所（国家生物信息中心）",
+    "homepage": "https://people.ucas.edu.cn/~KANGy",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "医学基因组学，基因检测分析新技术，肠道微生物组与免疫疾病关联。",
+    "_scraped": true,
+    "top_papers": [
+      "Microbiology Spectrum 2024",
+      "BMC Medicine 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "张维绮",
+    "institute": "北京基因组研究所（国家生物信息中心）",
+    "homepage": "https://www.big.ac.cn/sourcedb/zw/zjrc_/kyxmz/jsswxb/202312/t20231227_6930893.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "衰老机制（表观、免疫、代谢），衰老时钟构建与预警，衰老干预策略评估与转化。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell 2024",
+      "Immunity 2024",
+      "Developmental Cell 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李明锟",
+    "institute": "北京基因组研究所（国家生物信息中心）",
+    "homepage": "https://people.ucas.edu.cn/~mingkun",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "人体微生物组（呼吸、肠道、肿瘤）组成变化与疾病关联，病原宏基因组检测鉴定。",
+    "_scraped": true,
+    "top_papers": [
+      "Cell Reports 2024",
+      "Nature Ecology & Evolution 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李玥莹",
+    "institute": "北京基因组研究所（国家生物信息中心）",
+    "homepage": "",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员"
+    ],
+    "research": "造血系统细胞异质性，巨核细胞/血小板功能与疾病，血小板体外再生及相关疾病治疗。",
+    "_scraped": false,
+    "top_papers": [
+      "Immunity 2024",
+      "Blood 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "杨运桂",
+    "institute": "北京基因组研究所（国家生物信息中心）",
+    "homepage": "https://big.cas.cn/sourcedb/zw/zjrc_/zg/202312/t20231227_6931003.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "国家杰出青年科学基金",
+      "研究员"
+    ],
+    "research": "RNA表观遗传学（m5C/m6A等）特征、调控与功能，RNA甲基化测序技术。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "章张",
+    "institute": "北京基因组研究所（国家生物信息中心）",
+    "homepage": "https://ngdc.cncb.ac.cn/people/zhang-zhang",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "中科院百人计划",
+      "研究员"
+    ],
+    "research": "生物大数据整合审编与数据库系统研发，人工智能驱动的健康基因组数据挖掘。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "蔡军",
+    "institute": "北京基因组研究所（国家生物信息中心）",
+    "homepage": "https://big.cas.cn/sourcedb/zw/zjrc_/zg/202312/t20231227_6930987.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "单细胞组学技术与数据分析，肿瘤与早期胚胎基因组遗传/表观遗传变异，细胞异质性。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "赵文明",
+    "institute": "北京基因组研究所（国家生物信息中心）",
+    "homepage": "https://big.cas.cn/sourcedb/zw/zjrc_/zg/202312/t20231227_6930985.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物信息数据库、组学大数据整合与挖掘、高性能计算，国家基因组科学数据中心建设。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "邢旭东",
+    "institute": "北京基因组研究所（国家生物信息中心）",
+    "homepage": "https://big.cas.cn/sourcedb/zw/zjrc_/yjsds/202603/t20260326_8177931.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物医学前沿交叉多维大数据智能解析与平台算法，人工智能赋能肿瘤早筛防治。",
+    "_scraped": false,
+    "top_papers": [
+      "Science Advances 2024",
+      "Science Translational Medicine 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "韩大力",
+    "institute": "北京基因组研究所（国家生物信息中心）",
+    "homepage": "https://big.cas.cn/sourcedb/zw/zjrc_/kyxmz/jsswxb/202312/t20231227_6930903.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "RNA修饰测序组学及调控机制，肿瘤表观组学，生物信息学及表观治疗。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘颖",
+    "institute": "国家纳米科学中心",
+    "homepage": "https://nanoctr.cas.cn/sourcedb/zw/zxrck/201204/t20120405_3549649.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "国家优秀青年科学基金",
+      "研究员"
+    ],
+    "research": "纳米药物递送、纳米生物效应与安全性，纳米药物抗肿瘤机制，组织工程纳米材料。",
+    "_scraped": false,
+    "top_papers": [
+      "Nat Commun 2024",
+      "PNAS 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "唐岑",
+    "institute": "国家纳米科学中心",
+    "homepage": "",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "纳米材料合成及其在催化、传感中的应用，有机-无机复合纳米材料可控组装与催化转化。",
+    "_scraped": false,
+    "top_papers": [
+      "Angew. Chem. Int. Ed. 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "唐岑",
+    "institute": "国家纳米科学中心",
+    "homepage": "/",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "纳米材料合成及其在催化、传感中的应用，有机-无机复合纳米材料可控组装与催化转化。",
+    "_scraped": false,
+    "top_papers": [
+      "Angew. Chem. Int. Ed. 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "孟幻",
+    "institute": "国家纳米科学中心",
+    "homepage": "https://nanoctr.cas.cn/sourcedb/zw/zxrck/202103/t20210310_5972848.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "纳米药学、纳米药物递送、纳米生物界面与纳米安全性，工程纳米材料免疫调控。",
+    "_scraped": false,
+    "top_papers": [
+      "Matter 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "安红维",
+    "institute": "国家纳米科学中心",
+    "homepage": "无",
+    "discipline": "材料科学与工程",
+    "code": "805",
+    "titles": [
+      "国家优秀青年科学基金",
+      "副研究员"
+    ],
+    "research": "多肽/糖肽聚合物生物材料设计，体内原位自组装多肽纳米材料，肿瘤诊断治疗与靶向蛋白降解。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "张淼",
+    "institute": "国家纳米科学中心",
+    "homepage": "http://www.nanoctr.cn/sourcedb/zw/zxrck/202602/t20260205_8140577.html",
+    "discipline": "纳米科学与工程",
+    "code": "1406",
+    "titles": [
+      "研究员"
+    ],
+    "research": "可激活STING信号通路聚合物设计，mRNA癌症纳米疫苗淋巴递送与免疫应答增强。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "朱墨桃",
+    "institute": "国家纳米科学中心",
+    "homepage": "https://nanoctr.cas.cn/sourcedb/zw/zxrck/202103/t20210324_5983065.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "副研究员"
+    ],
+    "research": "纳米材料理化特性对生物安全的影响规律与分子机制，天然膜泡纳米结构抗肿瘤，纳米材料体内转运代谢。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "李素萍",
+    "institute": "国家纳米科学中心",
+    "homepage": "https://nanoctr.cas.cn/sourcedb/zw/zxrck/202004/t20200414_5543019.html",
+    "discipline": "生物医学工程",
+    "code": "831",
+    "titles": [
+      "国家万人计划",
+      "研究员"
+    ],
+    "research": "靶向调控肿瘤血管微环境（血小板、凝血因子）智能纳米药物，靶向溶栓/止血微纳药物研发。",
+    "_scraped": false,
+    "top_papers": [
+      "Nat Biomed Eng 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "林耀新",
+    "institute": "国家纳米科学中心",
+    "homepage": "https://nanoctr.cas.cn/sourcedb/zw/zxrck/202104/t20210429_6001516.html",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "mRNA疫苗/药物载体材料设计，肿瘤微环境响应智能纳米药物与免疫调控治疗，细胞自噬调控。",
+    "_scraped": false,
+    "top_papers": [
+      "Nat Commun 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "梁兴杰",
+    "institute": "国家纳米科学中心",
+    "homepage": "",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "国家杰出青年科学基金",
+      "中科院百人计划",
+      "研究员"
+    ],
+    "research": "纳米药物设计合成、结构优化和功能测定，克服临床适应性耐受的生物机制，肿瘤免疫治疗。",
+    "_scraped": false,
+    "top_papers": [
+      "PNAS 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王婧",
+    "institute": "国家纳米科学中心",
+    "homepage": "无",
+    "discipline": "材料科学与工程",
+    "code": "805",
+    "titles": [
+      "研究员"
+    ],
+    "research": "智能纳米药物体系的体内递送及生物效应，纳米蛋白冠分析与受体发现。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Protocols 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王浩",
+    "institute": "国家纳米科学中心",
+    "homepage": "https://nanoctr.cas.cn/wanghao/ktzfzr/",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "国家杰出青年科学基金",
+      "国家万人计划",
+      "科技部创新领军人才",
+      "研究员"
+    ],
+    "research": "自组装生物医用纳米材料制备及生物效应，体内原位自组装多肽药物，靶向蛋白降解与肿瘤疫苗。",
+    "_scraped": false,
+    "top_papers": [
+      "Adv. Mater. 2024",
+      "Angew. Chem. Int. Ed. 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王浩",
+    "institute": "国家纳米科学中心",
+    "homepage": "http://www.nanoctr.cn/wanghao",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "国家杰出青年科学基金",
+      "国家万人计划",
+      "科技部创新领军人才",
+      "研究员"
+    ],
+    "research": "自组装生物医用纳米材料制备及生物效应，体内原位自组装多肽药物，靶向蛋白降解与肿瘤疫苗。",
+    "_scraped": false,
+    "top_papers": [
+      "Adv. Mater. 2024",
+      "Angew. Chem. Int. Ed. 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王磊",
+    "institute": "国家纳米科学中心",
+    "homepage": "无",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "多肽基生物医用高分子材料，过程仿生细胞外基质多肽材料的识别-捕获-治疗纳米医学。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Nanotechnology 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "聂广军",
+    "institute": "国家纳米科学中心",
+    "homepage": "https://nanoctr.cas.cn/sourcedb/zw/zxrck/200906/t20090602_252681.html",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "国家杰出青年科学基金",
+      "研究员"
+    ],
+    "research": "基于肿瘤微环境调控的抗肿瘤纳米材料设计，细胞膜囊泡系统生物效应，肿瘤纳米生物学。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Nanotechnology 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "赵颖",
+    "institute": "国家纳米科学中心",
+    "homepage": "https://people.ucas.ac.cn/~0017584",
+    "discipline": "材料科学与工程",
+    "code": "805",
+    "titles": [
+      "国家优秀青年科学基金",
+      "研究员"
+    ],
+    "research": "生命体系化学自组装与纳米药物，多肽自组装超分子结构，环境响应型多功能纳米医用材料。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "陈春英",
+    "institute": "国家纳米科学中心",
+    "homepage": "http://nanoctr.cas.cn/sourcedb/zw/zxrck/200906/t20090602_252675.html",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "中国科学院院士",
+      "国家杰出青年科学基金",
+      "研究员"
+    ],
+    "research": "纳米蛋白冠分析方法及其化学生物学效应，纳米材料生物体内行为检测与机制，纳米佐剂与递送系统。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Nanotechnology 2024",
+      "Nature Protocols 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "陈春英",
+    "institute": "国家纳米科学中心",
+    "homepage": "https://nanoctr.cas.cn/sourcedb/zw/zxrck/200906/t20090602_252675.html",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "中国科学院院士",
+      "国家杰出青年科学基金",
+      "研究员"
+    ],
+    "research": "纳米蛋白冠分析方法及其化学生物学效应，纳米材料生物体内行为检测与机制，纳米佐剂与递送系统。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Nanotechnology 2024",
+      "Nature Protocols 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "周雍进",
+    "institute": "大连化学物理研究所",
+    "homepage": "www.synbc.dicp.ac.cn",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "国家杰出青年科学基金",
+      "国家优秀青年科学基金",
+      "青年千人",
+      "研究员"
+    ],
+    "research": "甲醇生物转化，合成生物学工具开发，天然产物生物合成，高性能微生物细胞工厂设计。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell 2024",
+      "Nature Energy 2024",
+      "Nat Metab 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "曹旭鹏",
+    "institute": "大连化学物理研究所",
+    "homepage": "https://canli.dicp.ac.cn/info/1057/4424.htm",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "微藻光合固碳强化与脂肪酸定向合成，海洋生物过程强化，太阳能生物转化与生物无机材料。",
+    "_scraped": false,
+    "top_papers": [
+      "JACS 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "杨开广",
+    "institute": "大连化学物理研究所",
+    "homepage": "https://dicp.cas.cn/sourcedb/zw/zjrck/201708/t20170823_4851213.html",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "蛋白质组学分析新技术新方法，色质联用技术，化学交联质谱，合成生物学。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "王方军",
+    "institute": "大连化学物理研究所",
+    "homepage": "http://dicp.cas.cn/sourcedb/zw/zjrck/201708/t20170823_4851196.html",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物大分子质谱新仪器新方法，极紫外激光解离质谱，蛋白质结构表征。",
+    "_scraped": false,
+    "top_papers": [
+      "Journal of the American Chemical Society 2024",
+      "Journal of the American Chemical Society 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "郭鑫",
+    "institute": "大连化学物理研究所",
+    "homepage": "https://canli.dicp.ac.cn/info/1054/4302.htm",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员",
+      "青年千人"
+    ],
+    "research": "新型太阳能电池材料与器件，二维钙钛矿材料，有机光电功能材料。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘卫东",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "https://tib.cas.cn/rcdw/yjyzgjgcs/202410/t20241019_7404641.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "酶类生物催化剂晶体结构解析，X射线晶体学，酶理性设计与定向进化。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "吴信",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "https://tib.cas.cn/rcdw/yjyzgjgcs/202410/t20241019_7404618.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "合成生物学驱动的功能性蛋白/微生物蛋白生物制造，木质素高值化利用。",
+    "_scraped": false,
+    "top_papers": [
+      "Bioresource Technology 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "夏建业",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "https://tib.cas.cn/rcdw/yjyzgjgcs/202410/t20241019_7404634.html",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物制造过程自动化数字化智能化，发酵过程优化与放大，生物反应器设计。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "孙周通",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://tib.cas.cn/yjsjy/dsjj/bssds/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "中科院百人计划"
+    ],
+    "research": "工业酶设计与绿色生物催化，酶分子工程，代谢工程与合成生物学。",
+    "_scraped": false,
+    "top_papers": [
+      "Angewandte Chemie 2024",
+      "Nature Synthesis 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "孙际宾",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://tib.cas.cn/yjsjy/dsjj/bssds/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "工业微生物系统生物学，多组学整合分析，氨基酸工业菌株改造创制。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "崔成森",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://tib.cas.cn/yjsjy/dsjj/bssds/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "天然产物生物合成途径酶分子挖掘改造，人工酶促反应，化学-酶法药物合成。",
+    "_scraped": false,
+    "top_papers": [
+      "Angewandte Chemie 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "廖小平",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "https://tib.cas.cn/rcdw/yjyzgjgcs/202411/t20241122_7445255.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物信息学、计算生物学、人工智能生物学，工业生物大数据智能分析，AI酶设计。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "廖振宇",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://tib.cas.cn/rcdw/yjyzgjgcs/202506/t20250605_7798210.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "营养物质的生物合成与功能安全评价，食品分析新方法开发，微生物发酵技术。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "张以恒",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://tib.cas.cn/yjsjy/dsjj/bssds/",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "体外合成生物学，多酶分子机器，体外生物转化，人工光合作用，工厂制粮。",
+    "_scraped": false,
+    "top_papers": [
+      "National Science Review 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "张大伟",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://www.tib.cas.cn/rcdw/yjyzgjgcs/202410/t20241019_7404656.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "维生素生物合成，微生物蛋白合成与高效表达系统，微生物细胞工厂与代谢工程。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "张燕飞",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "https://tib.cas.cn/rcdw/yjyzgjgcs/202410/t20241019_7404640.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "蛋白质工程与合成进化，合成生物学与代谢工程，光遗传学动态调控。",
+    "_scraped": false,
+    "top_papers": [
+      "ACS Synthetic Biology 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "朱岩",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://tib.cas.cn/yjsjy/dsjj/bssds/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "多组学整合分析，AI与数字细胞，全细胞模型构建与虚拟细胞工厂设计。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "李德茂",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://tib.cas.cn/yjsjy/dsjj/bssds/",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "副研究员"
+    ],
+    "research": "微生物替代蛋白低碳制造，微生物油脂低碳制造，丝状真菌与酵母底盘细胞工厂。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "王国坤",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "https://tib.cas.cn/rcdw/yjyzgjgcs/202410/t20241019_7404622.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "酵母基因组定向进化，功能性营养素微生物合成，低碳微生物食品合成。",
+    "_scraped": false,
+    "top_papers": [
+      "Metabolic Engineering 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王猛",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://tib.cas.cn/yjsjy/dsjj/bssds/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "基因组编辑，生物传感器与高通量筛选，AI与大数据驱动的菌种创制。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2021"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王钦宏",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "https://tib.cas.cn/rcdw/yjyzgjgcs/202410/t20241019_7404661.html",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "工业生物智能进化与代谢设计，高性能细胞工厂创制，液滴微流控高通量选育。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "王钰",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://tib.cas.cn/yjsjy/dsjj/bssds/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金"
+    ],
+    "research": "工业微生物基因编辑育种，一碳原料（甲醇等）生物转化利用，甲基营养微生物。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell Reports 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "田朝光",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://tib.cas.cn/rcdw/yjyzgjgcs/202410/t20241019_7404659.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "丝状真菌合成生物学，蛋白质表达系统构建，生物基大宗化学品细胞工厂。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "薛超友",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://tib.cas.cn/yjsjy/dsjj/bssds/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "基因编辑技术开发，DNA修复机制，单分子技术（smFRET、DNA帘），非模式菌株遗传操作。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature 2024",
+      "Cell Reports 2024",
+      "Cell Genomics 2024",
+      "Molecular Cell 2026",
+      "Nature Communications 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "赵磊",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://tib.cas.cn/yjsjy/dsjj/bssds/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "植物底盘细胞工程与代谢，低碳合成生物学，CO2捕集与仿生固碳转化利用。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "郑平",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "http://tib.cas.cn/yjsjy/dsjj/bssds/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "工业菌株合成生物学及系统生物学工具，多组学解析高产机制，氨基酸有机酸高效生产。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "马红武",
+    "institute": "天津工业生物技术研究所",
+    "homepage": "https://tib.cas.cn/rcdw/yjyzgjgcs/202410/t20241019_7404657.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "基因组规模代谢网络构建与分析，代谢途径设计，AI算法与生物计算设计工具开发。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell Reports 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "冯立强",
+    "institute": "广州生物医药与健康研究院",
+    "homepage": "https://gibh.cas.cn/team/yjy/yycx/202408/t20240808_7261100.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员"
+    ],
+    "research": "新发突发传染病疫苗（蚊媒黄病毒、呼吸道病毒），肿瘤mRNA疫苗，黏膜疫苗技术。",
+    "_scraped": false,
+    "top_papers": [
+      "Molecular Therapy 2024",
+      "Nature Biomedical Engineering 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘兴国",
+    "institute": "广州生物医药与健康研究院",
+    "homepage": "https://gibh.cas.cn/team/yjy/yjy_grymyyj/202408/t20240808_7260735.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "干细胞命运调控中代谢与线粒体作用，线粒体疾病病理与干细胞治疗，细胞器重塑。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell Metabolism 2024",
+      "Cell 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "孙飞",
+    "institute": "广州生物医药与健康研究院",
+    "homepage": "https://gibh.cas.cn/team/gjj/202408/t20240808_7260348.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "教授"
+    ],
+    "research": "冷冻电镜技术与原位结构生物学，膜蛋白与超大分子复合体结构功能，生命科学仪器研制。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "巫林平",
+    "institute": "广州生物医药与健康研究院",
+    "homepage": "https://gibh.cas.cn/team/yjy/yycx/202408/t20240808_7261095.html",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员"
+    ],
+    "research": "核酸药物（疫苗）开发及纳米靶向递送系统，生物材料合成与微纳结构调控干细胞命运。",
+    "_scraped": false,
+    "top_papers": [
+      "Advanced Healthcare Materials 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "张骁",
+    "institute": "广州生物医药与健康研究院",
+    "homepage": "https://gibh.cas.cn/team/yjy/pxyj/202408/t20240808_7260352.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "细胞信号传导，类器官复杂模型，创新药物靶点，全自主生命科学装备研发。",
+    "_scraped": false,
+    "top_papers": [
+      "Research 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "彭广敦",
+    "institute": "广州生物医药与健康研究院",
+    "homepage": "https://gibh.cas.cn/team/yjy/pxyj/202408/t20240808_7260353.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "发育与损伤中的时空调控规律，空间转录组学技术（Geo-seq、MISAR-seq），细胞谱系解析。",
+    "_scraped": false,
+    "top_papers": [
+      "Developmental Cell 2024",
+      "Science Bulletin 2025",
+      "Nature Communications 2025",
+      "Nature Cell Biology 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李鹏",
+    "institute": "广州生物医药与健康研究院",
+    "homepage": "https://gibh.cas.cn/team/gjj/202408/t20240808_7261101.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员"
+    ],
+    "research": "肿瘤免疫细胞治疗（CAR-T、类NK细胞），人源化小鼠模型，T细胞身份维持机制。",
+    "_scraped": false,
+    "top_papers": [
+      "EMBO Reports 2024",
+      "Journal of Hematology & Oncology 2023"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "潘光锦",
+    "institute": "广州生物医药与健康研究院",
+    "homepage": "https://gibh.cas.cn/team/gjj/202502/t20250226_7534868.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "多能干细胞多能性维持与分化的分子机制，人iPS细胞形成及临床应用，异种嵌合。",
+    "_scraped": false,
+    "top_papers": [
+      "Nucleic Acids Research 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "赖良学",
+    "institute": "广州生物医药与健康研究院",
+    "homepage": "https://gibh.cas.cn/team/yjy/yjy_grymyyj/202408/t20240808_7260727.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "教授"
+    ],
+    "research": "大动物干细胞分离培养，大动物克隆，基因修饰大动物模型构建，人源化器官异种培育。",
+    "_scraped": false,
+    "top_papers": [
+      "Signal Transduction and Targeted Therapy 2024",
+      "Nature 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "陈捷凯",
+    "institute": "广州生物医药与健康研究院",
+    "homepage": "https://gibh.cas.cn/team/gjj/202408/t20240808_7260346.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金",
+      "国家优秀青年科学基金",
+      "国家万人计划"
+    ],
+    "research": "细胞命运调控与表观遗传学，异染色质形成机制，神经发育与类器官工程。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Cell Bioscience 2024",
+      "Nature Cell Biology 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "鲍习琛",
+    "institute": "广州生物医药与健康研究院",
+    "homepage": "https://gibh.cas.cn/team/yjy/xbpx/202408/t20240808_7260344.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "RNA-蛋白相互作用在细胞命运与病理生理中的功能机制，非编码RNA调控，肺部疾病RNA治疗。",
+    "_scraped": false,
+    "top_papers": [
+      "The Innovation Life 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘宏伟",
+    "institute": "微生物研究所",
+    "homepage": "https://mycolab.im.ac.cn/liuhongwei/zzjj/201907/t20190731_500757.html",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员",
+      "特聘研究员"
+    ],
+    "research": "微生物组与微生态，真菌活性次级代谢产物发现与作用机制，微生态活菌药物研发。",
+    "_scraped": false,
+    "top_papers": [
+      "Advanced Science 2024",
+      "Nature Microbiology 2023"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘芳",
+    "institute": "微生物研究所",
+    "homepage": "https://scholar.google.com/citations?hl=zh-CN&user=eJ5ZkzAAAAAJ",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "真菌分类与系统进化，真菌多样性，有害真菌监测与快速检测鉴定技术。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "周珊珊",
+    "institute": "微生物研究所",
+    "homepage": "https://im.cas.cn/rcdw/jcqn/z/202510/t20251010_7985985.html",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员"
+    ],
+    "research": "微生物活性天然产物发现、结构改造与新药研发，次级代谢产物生物合成与合成生物学。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2026",
+      "Trends in Chemistry 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "张寿悦",
+    "institute": "微生物研究所",
+    "homepage": "https://im.cas.cn/rcdw/jcqn/z/202601/t20260109_8101155.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "基因编辑工具与合成生物学催化元件挖掘设计，CRISPR-Cas系统起源进化，AI辅助蛋白设计。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature 2024",
+      "Science 2024",
+      "Nature Communications 2024",
+      "Cell 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "戴连攀",
+    "institute": "微生物研究所",
+    "homepage": "https://im.cas.cn/rcdw/jcqn/202601/t20260109_8101111.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金"
+    ],
+    "research": "重要病原新型疫苗设计与开发，抗原蛋白结构基础，保护性免疫应答机制，临床转化。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell Reports Medicine 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李明",
+    "institute": "微生物研究所",
+    "homepage": "https://im.cas.cn/rcdw/jcqn/l/202601/t20260109_8101137.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "微生物免疫机制解析与工程化应用，CRISPR-Cas、毒素-抗毒素系统，基因编辑工具创新。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Chemical Biology 2025",
+      "Nature 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李金娥",
+    "institute": "微生物研究所",
+    "homepage": "https://im.cas.cn/rcdw/jcqn/l/202510/t20251010_7985991.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "微生物代谢产物的生物合成与调控，链霉菌次级代谢途径解析，微生物药物研发与评价。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "杜文斌",
+    "institute": "微生物研究所",
+    "homepage": "https://www.x-mol.com/groups/dulab",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "微流控技术用于高通量单细胞培养、分析与筛选，数字绝对定量病原菌核酸检测与药敏分析。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2026",
+      "Lab on a Chip 2025",
+      "Genomics Proteomics & Bioinformatics 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "潘国辉",
+    "institute": "微生物研究所",
+    "homepage": "https://people.ucas.ac.cn/~pangh",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员"
+    ],
+    "research": "微生物来源聚酮类和非核糖体肽类天然产物的发现、生物合成机制解析及合成生物学研究。",
+    "_scraped": true,
+    "top_papers": [
+      "Journal of the American Chemical Society 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王为善",
+    "institute": "微生物研究所",
+    "homepage": "https://people.ucas.ac.cn/~wangws",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金"
+    ],
+    "research": "微生物系统代谢工程与合成生物学，高产菌株工程改造、定向进化及高效筛选新策略。",
+    "_scraped": true,
+    "top_papers": [
+      "Trends in Biotechnology 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王奇慧",
+    "institute": "微生物研究所",
+    "homepage": "https://im.cas.cn/rcdw/jcqn/w/202601/t20260109_8101002.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金"
+    ],
+    "research": "重要囊膜病毒入侵机制、宿主抗体应答规律及干预手段（治疗性抗体）的设计开发。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2024",
+      "EMBO Molecular Medicine 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王琳淇",
+    "institute": "微生物研究所",
+    "homepage": "http://mycolab.im.ac.cn/wanglinqi/zzjj/201907/t20190731_500881.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金"
+    ],
+    "research": "真菌致病与耐药机制，新生隐球菌社会性行为、毒力调控及有性生殖模式选择机制。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell Reports 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王硕",
+    "institute": "微生物研究所",
+    "homepage": "https://im.cas.cn/rcdw/yjy/w/202601/t20260109_8101149.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金"
+    ],
+    "research": "黏膜免疫稳态调控，肠道菌群与肠道淋巴细胞互作及呼吸道黏膜抗感染免疫机制。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell Host & Microbe 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "胡松年",
+    "institute": "微生物研究所",
+    "homepage": "https://im.cas.cn/rcdw/jcqn/hk/202510/t20251010_7985968.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "大数据驱动的微生物资源智能发掘，健康微生物组功能解析与微生物组工程。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "蔡磊",
+    "institute": "微生物研究所",
+    "homepage": "https://mycolab.im.ac.cn/cailei/zzjj/201907/t20190731_500745.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金",
+      "国家优秀青年科学基金",
+      "中科院百人计划"
+    ],
+    "research": "真菌多样性、分类与系统进化，植物病原真菌检疫监测及植物微生物组研究。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell Reports 2025",
+      "Studies in Mycology 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "赵欣",
+    "institute": "微生物研究所",
+    "homepage": "https://im.cas.cn/rcdw/yjy/202601/t20260113_8103463.html",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "研究员"
+    ],
+    "research": "基于CRISPR的病原受体筛选及入侵机制研究，病毒入侵阻断及抗病毒免疫。",
+    "_scraped": false,
+    "top_papers": [
+      "Science Translational Medicine 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "陈义华",
+    "institute": "微生物研究所",
+    "homepage": "https://chenlab-imcas.cn",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金",
+      "国家优秀青年科学基金"
+    ],
+    "research": "微生物天然产物及其生物合成，聚酮类化合物挖掘与合成生物学改造。",
+    "_scraped": false,
+    "top_papers": [
+      "Science 2024",
+      "Advanced Science 2024",
+      "Journal of the American Chemical Society 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "高福",
+    "institute": "微生物研究所",
+    "homepage": "https://www.im.cas.cn/gflab/",
+    "discipline": "基础医学",
+    "code": "1001",
+    "titles": [
+      "中国科学院院士",
+      "研究员",
+      "教授"
+    ],
+    "research": "病原微生物跨种传播与感染免疫，囊膜病毒与宿主相互识别作用机制。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2025",
+      "Science Translational Medicine 2025",
+      "Nucleic Acids Research 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "魏鑫丽",
+    "institute": "微生物研究所",
+    "homepage": "https://mycolab.im.ac.cn/weixinli/zzjj/201908/t20190813_500922.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "地衣生物多样性、分布格局及分子系统演化，地衣共生体系资源应用。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "尹华军",
+    "institute": "成都生物研究所",
+    "homepage": "https://cib.cas.cn/sourcedb/zw/rck/201408/t20140818_4186558.html",
+    "discipline": "生态学",
+    "code": "713",
+    "titles": [
+      "研究员"
+    ],
+    "research": "根系生态学与根际生态过程，森林根系化学防御与资源获取策略协同机制。",
+    "_scraped": false,
+    "top_papers": [
+      "New Phytologist 2026",
+      "Ecology Letters 2026",
+      "Plant Communications 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王涛",
+    "institute": "成都生物研究所",
+    "homepage": "http://cib.cas.cn/sourcedb/zw/rck/200908/t20090803_2296882.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "麦类作物分子育种，种质资源评价、高产优质基因克隆与新品种培育。",
+    "_scraped": false,
+    "top_papers": [
+      "The Crop Journal 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "谭周亮",
+    "institute": "成都生物研究所",
+    "homepage": "http://www.cib.ac.cn/sourcedb/zw/rck/201507/t20150724_4403866.html",
+    "discipline": "环境科学与工程",
+    "code": "830",
+    "titles": [
+      "研究员"
+    ],
+    "research": "环境生物技术，废水微藻净污固碳资源化利用与智能运行调控。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "闫志英",
+    "institute": "成都生物研究所",
+    "homepage": "https://cib.cas.cn/sourcedb/zw/rck/202408/t20240814_7272313.html",
+    "discipline": "环境科学与工程",
+    "code": "830",
+    "titles": [
+      "研究员"
+    ],
+    "research": "有机固废资源化与高值化、环境生物技术、功能微生物与合成微生物菌群。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘远",
+    "institute": "杭州医学研究所",
+    "homepage": "https://yuanliulab.com",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员",
+      "特聘研究员",
+      "青年千人"
+    ],
+    "research": "纳米蛋白组学、DNA核酸适体智能分子诊断、机器学习与纳米医学诊疗技术。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "吴芩",
+    "institute": "杭州医学研究所",
+    "homepage": "https://him.cas.cn/yjs/zsxx/dsxx/bss/202506/t20250619_7872096.html",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金"
+    ],
+    "research": "肿瘤单细胞时空分子图谱绘制，肿瘤治疗新靶点与药物效果生物标记物鉴定。",
+    "_scraped": false,
+    "top_papers": [
+      "Science 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "方晓红",
+    "institute": "杭州医学研究所",
+    "homepage": "https://him.cas.cn/zsjy/dsdw/kyry/202109/t20210928_6897368.html",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员",
+      "教授",
+      "国家杰出青年科学基金",
+      "国家万人计划"
+    ],
+    "research": "单分子水平高灵敏生物医学分析方法，肿瘤标志物发现与分子诊疗。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Reviews Bioengineering 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李娟",
+    "institute": "杭州医学研究所",
+    "homepage": "https://him.cas.cn/yjs/zsxx/dsxx/bss/202502/t20250209_7525570.html",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金"
+    ],
+    "research": "生物成像、生物材料与肿瘤免疫治疗，功能核酸分子探针与靶向治疗。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2025",
+      "Science 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "湛鹏飞",
+    "institute": "杭州医学研究所",
+    "homepage": "https://him.cas.cn/yxsgk/rcdw/kyry/202402/t20240223_6993513.html",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员",
+      "青年千人"
+    ],
+    "research": "核酸构筑人工细胞与人工细胞器，智能核酸分子机器用于疫苗和药物递送。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "罗雨虹",
+    "institute": "杭州医学研究所",
+    "homepage": "https://him.cas.cn/yjs/zsxx/dsxx/bss/202412/t20241218_7502970.html",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员",
+      "青年千人"
+    ],
+    "research": "肿瘤和代谢性疾病发病机制，糖脂代谢、胆汁酸代谢与抗肿瘤免疫新靶点。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "蒋逸飞",
+    "institute": "杭州医学研究所",
+    "homepage": "https://him.cas.cn/yxsgk/rcdw/kyry/",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员",
+      "青年千人"
+    ],
+    "research": "化学与生物成像、囊泡与外泌体分析、微流体智能诊断设备开发。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "谭蔚泓",
+    "institute": "杭州医学研究所",
+    "homepage": "https://him.cas.cn/yjs/zsxx/dsxx/bss/202412/t20241218_7502983.html",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "中国科学院院士",
+      "研究员",
+      "教授"
+    ],
+    "research": "核酸适体、分子识别与纳米生物传感，功能核酸在重大疾病诊疗中的应用。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Biomedical Engineering 2025",
+      "Nature Cell Biology 2026",
+      "Nature Reviews Bioengineering 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "赵猛",
+    "institute": "杭州医学研究所",
+    "homepage": "https://him.cas.cn/yjs/zsxx/dsxx/bss/202412/t20241218_7502987.html",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员",
+      "青年千人"
+    ],
+    "research": "RNA折叠、转录后修饰及其与蛋白质相互作用，mRNA疫苗设计。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "邱丽萍",
+    "institute": "杭州医学研究所",
+    "homepage": "https://him.cas.cn/zsjy/dsdw/kyry/202403/t20240326_7052813.html",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金"
+    ],
+    "research": "分析化学，核酸适体与DNA纳米技术在生物传感与细胞成像中的应用。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Cell Biology 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "韩达",
+    "institute": "杭州医学研究所",
+    "homepage": "https://him.cas.cn/yjs/zsxx/dsxx/bss/202412/t20241218_7502979.html",
+    "discipline": "药学",
+    "code": "1007",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金",
+      "青年千人"
+    ],
+    "research": "核酸化学与分子诊断，智能核酸工具与DNA计算用于恶性肿瘤早期筛查。",
+    "_scraped": false,
+    "top_papers": [
+      "PNAS 2024",
+      "Journal of the American Chemical Society 2025",
+      "Nature Computational Science 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "严飞",
+    "institute": "深圳先进技术研究院",
+    "homepage": "严飞,研究员 - 深圳合成生物学创新研究院",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物合成超声造影剂及其诊疗应用，声控基因表达与生物医学应用。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "余皓",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~haoyu",
+    "discipline": "计算机科学与技术",
+    "code": "812",
+    "titles": [
+      "副研究员",
+      "教授"
+    ],
+    "research": "单细胞与空间转录组肿瘤微环境异质性，基因组学AI与诊疗生物标志物。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "傅雄飞",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://isynbio.siat.ac.cn/siat/2025-03/06/article_2025030601270121256.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "定量合成生物学，生物系统时空有序性的跨层次涌现原理与合成基因线路。",
+    "_scraped": false,
+    "top_papers": [
+      "PNAS 2025",
+      "The ISME Journal 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘陈立",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://isynbio.siat.ac.cn/liulab/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金"
+    ],
+    "research": "合成生物学，合成生物系统理性设计原理与实体瘤合成细菌治疗。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "司同",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://isynbio.siat.ac.cn/sitonglab/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "自动化合成生物研究的理论、技术与应用，AI for Science与生物制造。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "司龙龙",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://isynbio.siat.ac.cn/SILAB/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "青年千人"
+    ],
+    "research": "病毒感染及防治新策略，合成生物学疫苗技术与人体器官芯片。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Chemical Biology 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "周文华",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://people.ucas.edu.cn/~zhouwenhua",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "青年千人"
+    ],
+    "research": "生物传感材料开发及应用，等温扩增技术与生物分子高灵敏检测分析。",
+    "_scraped": true,
+    "top_papers": [
+      "Nano-Micro Letters 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "喻学锋",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://people.ucas.edu.cn/~yuxuefeng",
+    "discipline": "材料科学与工程",
+    "code": "805",
+    "titles": [
+      "研究员",
+      "长江学者"
+    ],
+    "research": "二维纳米功能材料结构设计及其在光电催化与柔性电子领域应用。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Communications 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "娄春波",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://people.ucas.ac.cn/~loulab",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金",
+      "青年千人"
+    ],
+    "research": "合成生物学模块化与正交化设计，哺乳动物细胞基因线路与细胞基因治疗。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Cell Systems 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "巫建东",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~jwu",
+    "discipline": "生物医学工程",
+    "code": "831",
+    "titles": [
+      "副研究员"
+    ],
+    "research": "微流控细胞分析与器官芯片，细胞迁移与肿瘤微环境体外诊断。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "张成辛",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://kad-ecoli.github.io",
+    "discipline": "计算机科学与技术",
+    "code": "812",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金"
+    ],
+    "research": "基于AI与蒙特卡罗模拟开发蛋白质与RNA三维结构及功能预测算法。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "张键",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~jianzhang_SIAT",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "活性多肽在代谢、生殖与衰老中的作用，工程化细胞外囊泡转化应用。",
+    "_scraped": true,
+    "top_papers": [
+      "Advanced Science 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "戴卓君",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://isynbio.siat.ac.cn/ZDlab/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金"
+    ],
+    "research": "合成生物学下功能菌群及活体材料的方法开发及智能制造。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Chemical Biology 2024",
+      "Nature Communications 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "施小山",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~0073410",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "免疫细胞信号转导机制，定量质谱解析与新型合成免疫学疗法设计。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Reviews Immunology 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "朱英杰",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~0058241",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金",
+      "国家优秀青年科学基金",
+      "青年千人"
+    ],
+    "research": "大脑奖赏环路及其在药物成瘾等神经精神疾病中的作用机制与干预策略。",
+    "_scraped": true,
+    "top_papers": [
+      "The Journal of Clinical Investigation 2024",
+      "Neuron 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李刚",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://cxqjzx.siat.ac.cn/siat/2025-02/11/article_2025021110062338320.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "教授"
+    ],
+    "research": "干细胞生物学，骨折愈合及肢体延长技术，组织工程学与干细胞临床应用。",
+    "_scraped": false,
+    "top_papers": [
+      "Advanced Science 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李汉杰",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~hanjieli",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金"
+    ],
+    "research": "人体免疫细胞发育分化与功能研究，构建高分辨率人体免疫系统发育时空图谱。",
+    "_scraped": true,
+    "top_papers": [
+      "Cell 2025",
+      "Trends in Immunology 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李红昌",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://people.ucas.edu.cn/~0029621",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "纳米医学，自噬驱动的细胞膜蛋白靶向降解技术（ATTEC/CPPTACs），纳米药物与疾病治疗。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Chemical Biology 2025",
+      "Nature Communications 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "杨帆",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~fanyangsiat",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金"
+    ],
+    "research": "AI驱动的系统免疫学，综合单细胞多组学技术与大数据分析算法，解析复杂疾病发病机制。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "杨帆",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://people.ucas.ac.cn/~fanyangsiat",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金"
+    ],
+    "research": "AI驱动的系统免疫学，综合单细胞多组学技术与大数据分析算法，解析复杂疾病发病机制。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "杨慧",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~yanghui",
+    "discipline": "生物医学工程",
+    "code": "831",
+    "titles": [
+      "研究员"
+    ],
+    "research": "面向生物医学应用的微纳米操控与超灵敏传感技术，新型生物传感及疾病诊疗方法研究。",
+    "_scraped": true,
+    "top_papers": [
+      "Microsystems & Nanoengineering 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "罗小舟",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://luo-lab.com/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "青年千人"
+    ],
+    "research": "合成生物化学与生物制造，AI与机器学习赋能代谢途径工程，天然产物生物合成。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Metabolism 2024",
+      "Nature Communications 2024",
+      "Chemical Reviews 2024",
+      "Advanced Science 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "胡政",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~huzheng",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金",
+      "青年千人"
+    ],
+    "research": "合成生物进化，单细胞谱系示踪技术，肿瘤早期演化与多克隆到单克隆转变机制研究。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature 2024",
+      "Nature Reviews Genetics 2026",
+      "Genome Biology 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "蔡林涛",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://caigroup.siat.ac.cn/?page_id=1823",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "研究员",
+      "中科院百人计划",
+      "教授"
+    ],
+    "research": "纳米医学、微纳生物机器人及光学智能诊疗，靶向纳米药物与纳米疫苗，肿瘤光学治疗与诊疗一体化。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell Reports 2024",
+      "Trends in Biotechnology 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "谭骁天",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~0076866",
+    "discipline": "生物医学工程",
+    "code": "831",
+    "titles": [
+      "副研究员"
+    ],
+    "research": "光微流生物分子传感技术、激光发射生物传感、面向生物分子探测的蛋白设计及微量样本免疫检测。",
+    "_scraped": true,
+    "top_papers": [
+      "ACS Sensors 2025",
+      "Analytical Chemistry 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "赖毓霄",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~laiyuxiao",
+    "discipline": "生物医学工程",
+    "code": "831",
+    "titles": [
+      "研究员",
+      "教授"
+    ],
+    "research": "骨科相关生物材料应用研究，3D打印骨修复材料，骨植入功能材料的基础研究与临床转化。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Communications 2025",
+      "Advanced Science 2023"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "赵乔",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://www.zhaoqiaolab.org/col.jsp?id=104",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金",
+      "青年千人"
+    ],
+    "research": "植物合成生物学，植物代谢工程，植物基因组学与合成基因组学。",
+    "_scraped": false,
+    "top_papers": [
+      "Science Advances 2024",
+      "Plant Biotechnology Journal 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "邓卡",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~0073484",
+    "discipline": "控制科学与工程",
+    "code": "811",
+    "titles": [
+      "研究员"
+    ],
+    "research": "质谱仪器、关键部件及实验室自动化接口技术研发，分析仪器工程化。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "钟超",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://isynbio.siat.ac.cn/zhonglab/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金",
+      "青年千人"
+    ],
+    "research": "材料合成生物学，活体功能材料，生物膜工程与可编程细胞分化，智能活体材料用于疾病治疗。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature 2026",
+      "Nature Biotechnology 2026",
+      "Nature Communications 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "陈万泽",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~0073406",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "细胞命运的理解和改造，合成生物学，单细胞转录因子测序技术与细胞重编程研究。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Genetics 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "陈业",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://isynbio.siat.ac.cn/chenlab/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "青年千人"
+    ],
+    "research": "原核与真核基因表达调控的定量化与模块化设计，计算机辅助基因线路设计，合成微生物群落。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2025",
+      "Nucleic Acids Research 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "陈禹",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://people.ucas.ac.cn/~yc",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "青年千人"
+    ],
+    "research": "定量合成生物学和合成生物制造，整合干湿技术定量解析代谢调控机制。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Protocols 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "雷晓华",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~xiaohualei",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "空间生命科学，哺乳动物早期胚胎发育，干细胞与再生医学，空间环境对胚胎损伤机制研究。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "顾国强",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~guguoqiang",
+    "discipline": "生物医学工程",
+    "code": "831",
+    "titles": [
+      "副研究员"
+    ],
+    "research": "无标记超分辨光学成像、微腔光子学、光场理论计算，拉曼光谱技术检测肿瘤标志物。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "马迎飞",
+    "institute": "深圳先进技术研究院",
+    "homepage": "https://isynbio.siat.ac.cn/malab/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "噬菌体合成生物学与肠道微生物组，噬菌体多样性与功能研究，人工噬菌体设计与耐药菌感染治疗。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell Host & Microbe 2026",
+      "eBioMedicine 2025",
+      "npj Biofilms and Microbiomes 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "魏平",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://www.isynbio.org.cn/team/13-member-89",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "合成生物学，生物网络人工设计与细胞信息处理，免疫细胞工程化设计与CAR-T细胞治疗。",
+    "_scraped": false,
+    "top_papers": [
+      "Advanced Science 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "鲍进",
+    "institute": "深圳先进技术研究院",
+    "homepage": "http://people.ucas.ac.cn/~Jin_Bao_Lab",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金"
+    ],
+    "research": "脑信息通讯与神经调控原理与方法，情绪与运动的脑网络控制机制，靶向脑网络的神经调控新方法。",
+    "_scraped": true,
+    "top_papers": [
+      "Cell 2024",
+      "Neuron 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "杨旭三",
+    "institute": "物理研究所",
+    "homepage": "http://www.iop.cas.cn/rcjy/tpyjy/?id=5615",
+    "discipline": "物理学",
+    "code": "702",
+    "titles": [
+      "特聘研究员"
+    ],
+    "research": "生物医学光子学，上转换纳米材料与超分辨成像，单分子/颗粒机理研究与医学应用物理。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "焦放",
+    "institute": "物理研究所",
+    "homepage": "https://www.iop.cas.cn/rcjy/tpyjy/?id=4432",
+    "discipline": "材料科学与工程",
+    "code": "805",
+    "titles": [
+      "特聘研究员"
+    ],
+    "research": "开发利用多功能高速和原位原子力显微镜技术，研究生物大分子自组装、结构动态与分子间相互作用。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "陆颖",
+    "institute": "物理研究所",
+    "homepage": "http://www.iop.cas.cn/rcjy/zgjgwry/?id=964",
+    "discipline": "物理学",
+    "code": "702",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金"
+    ],
+    "research": "物理与生命科学交叉，利用超高精度单分子荧光技术研究生物分子运行机理与界面材料。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘江",
+    "institute": "生物物理研究所",
+    "homepage": "https://ibp.cas.cn/rc/lj/202411/t20241108_7436045.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "教授"
+    ],
+    "research": "遗传学与基因组学，表观遗传学，DNA甲基化时空动态图谱与胚胎发育表观调控。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Methods 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘超培",
+    "institute": "生物物理研究所",
+    "homepage": "https://ibp.cas.cn/rc/lcp/202411/t20241108_7436060.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "染色质组装与调控的结构生物学，DNA复制偶联染色质组装，减数分裂同源染色体重组与联会。",
+    "_scraped": false,
+    "top_papers": [
+      "Science 2023"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "周政",
+    "institute": "生物物理研究所",
+    "homepage": "https://www.ibp.cas.cn/rc/zz/202411/t20241107_7435099.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "青年千人",
+      "教授"
+    ],
+    "research": "染色质结构动态与表观遗传调控，核小体组装与去组装的分子机制。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "徐平勇",
+    "institute": "生物物理研究所",
+    "homepage": "https://ibp.cas.cn/rc/xpy/202411/t20241107_7435395.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "教授"
+    ],
+    "research": "新型荧光蛋白和小分子探针开发，超高分辨显微成像新技术新方法及其在神经科学中的应用。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "朱冰",
+    "institute": "生物物理研究所",
+    "homepage": "https://ibp.cas.cn/rc/zb/202411/t20241107_7435085.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金",
+      "中国科学院院士"
+    ],
+    "research": "表观遗传学，哺乳动物异染色质形成机制，表观遗传信息在细胞增殖中的传递与调控。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature 2024",
+      "Nature Communications 2024",
+      "Annual Review of Genetics 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李伟",
+    "institute": "生物物理研究所",
+    "homepage": "https://ibp.cas.cn/rc/lw/202411/t20241108_7436126.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "染色质动态结构和功能调控的单分子研究，利用磁镊、光镊等单分子技术解析染色质组装机制。",
+    "_scraped": false,
+    "top_papers": [
+      "Nucleic Acids Research 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "杨鹏远",
+    "institute": "生物物理研究所",
+    "homepage": "https://ibp.cas.cn/rc/ypy/202411/t20241107_7435358.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "青年千人",
+      "教授"
+    ],
+    "research": "HBV感染与免疫治疗，乙肝病毒相关肝癌免疫逃逸机制，肿瘤微环境T细胞亚群研究。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "纪伟",
+    "institute": "生物物理研究所",
+    "homepage": "https://ibp.cas.cn/rc/jw/202411/t20241108_7436264.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "国家杰出青年科学基金"
+    ],
+    "research": "超分辨成像技术研究及仪器工程实现，研制突破光学分辨率的成像设备并应用于细胞原位成像。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Methods 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "薛愿超",
+    "institute": "生物物理研究所",
+    "homepage": "https://www.ibp.cas.cn/rc/xyc/202411/t20241107_7435370.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员",
+      "教授"
+    ],
+    "research": "非编码RNA功能机制及相关技术研发，创建RIC-seq系列技术解析RNA原位高级结构与调控机制。",
+    "_scraped": false,
+    "top_papers": [
+      "Molecular Cell 2026",
+      "Nucleic Acids Research 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "骆健俊",
+    "institute": "生物物理研究所",
+    "homepage": "https://people.ucas.edu.cn/~luojianjun",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "长非编码RNA系统发现与功能机制研究，RNA研究新技术新方法，非编码RNA翻译复杂性。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "王军波",
+    "institute": "空天信息创新研究院",
+    "homepage": "",
+    "discipline": "电子科学与技术",
+    "code": "809",
+    "titles": [
+      "研究员",
+      "教授",
+      "国家杰出青年科学基金"
+    ],
+    "research": "高性能MEMS传感器，高精度压力传感器、甚低频振动传感器、单细胞检测传感器研究。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "张银龙",
+    "institute": "纳米科学与工程学院",
+    "homepage": "https://people.ucas.ac.cn/http:/people.ucas.ac.cn/~yinlong_zhang",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "副教授"
+    ],
+    "research": "纳米药物合成及生物医学应用，抗血小板药物改性及纳米逆转剂开发，疾病治疗微纳机器人。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "陈凯凯",
+    "institute": "纳米科学与工程学院",
+    "homepage": "https://people.ucas.ac.cn/~kc",
+    "discipline": "化学",
+    "code": "703",
+    "titles": [
+      "副教授",
+      "青年千人",
+      "中科院百人计划"
+    ],
+    "research": "纳米流体输运，纳米孔DNA测序，DNA纳米技术，单分子方法与生物传感器。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "卜东波",
+    "institute": "计算技术研究所",
+    "homepage": "https://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496584.html",
+    "discipline": "计算机科学与技术",
+    "code": "812",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物信息学，AI辅助蛋白质结构预测与蛋白质设计，计算机算法设计与分析。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "吴颉",
+    "institute": "过程工程研究所",
+    "homepage": "https://ipe.cas.cn/sourcedb/zw/zjrc/yjy/202105/t20210517_6014530.html",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "新型颗粒制剂研制及其在生物医药领域的应用，疫苗佐剂及长效多肽药物缓控释制剂研究。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "周炜清",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.ac.cn/~wqzhou",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物材料的设计、制备与应用，干细胞培养微载体、高效分离纯化介质、固定化酶载体。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "夏宇飞",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.edu.cn/~yufeixia",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员",
+      "国家优秀青年科学基金",
+      "教授"
+    ],
+    "research": "疫苗佐剂与mRNA递送系统研究，流感、新冠等疫苗黏膜和系统性免疫增效，Pickering乳液佐剂。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "岳华",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.edu.cn/~hyue",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员",
+      "教授"
+    ],
+    "research": "纳微米粒子作为疫苗佐剂的研究，新型纳微材料在疫苗佐剂和肿瘤免疫中的应用。",
+    "_scraped": true,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "巩方玲",
+    "institute": "过程工程研究所",
+    "homepage": "https://ipe.cas.cn/sourcedb/zw/zjrc/yjy/202105/t20210517_6014534.html",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "均一可控高分子微球与微胶囊制备及应用，膜乳化技术放大规律研究。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "张松平",
+    "institute": "过程工程研究所",
+    "homepage": "https://ipe.cas.cn/sourcedb/zw/zjrc/yjy/202105/t20210511_6012346.html",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物医药工程，生物药制备与递送，蛋白质药物制剂与递送系统研究。",
+    "_scraped": false,
+    "top_papers": []
+  },
+  {
+    "direction": "生物制造",
+    "name": "张欣",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.edu.cn/~0014559",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "国家杰出青年科学基金",
+      "国家优秀青年科学基金",
+      "中科院百人计划",
+      "研究员"
+    ],
+    "research": "核酸药物与疫苗剂型工程，围绕生物材料构建与功能化开展基因药物递送及肿瘤免疫治疗研究。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Advanced Materials 2024",
+      "Science Advances 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李天予",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.ac.cn/~litianyu",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物分子自组装与药物剂型化，研究肽等生物分子组装新现象、新机制及生物医药应用。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Advanced Materials 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "樊荣",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.ac.cn/~0074712",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物反应与膜分离耦合，面向多糖、抗体、外泌体、细胞治疗制剂等先进生物药连续化制备体系。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Advanced Functional Materials 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "白硕",
+    "institute": "过程工程研究所",
+    "homepage": "http://ipe.cas.cn/sourcedb/zw/zjrc/yjy/202105/t20210517_6014535.html",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "青年千人",
+      "科技部创新领军人才",
+      "研究员"
+    ],
+    "research": "智能分子凝胶材料设计及生物医学应用，可穿戴柔性电子与可植入脑机接口器件创制，凝胶墨水3D生物打印。",
+    "_scraped": false,
+    "top_papers": [
+      "Advanced Materials 2024",
+      "Nature Communications 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "罗建泉",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.ac.cn/~jianquanluo",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "中科院百人计划",
+      "研究员"
+    ],
+    "research": "高性能分离膜材料制备及在生物催化与分离、食品加工、废水资源化和新能源等领域的应用。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Communications 2025",
+      "Advanced Functional Materials 2024",
+      "AIChE Journal 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "袁成前",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.ac.cn/~0069092",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物分子自组装及玻璃态结构与功能化研究，聚焦液-液相分离、肽组装成核与原细胞构建。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Journal of the American Chemical Society 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "袁野",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.ac.cn/~yeyuan",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "AI模型及其在生物药研发领域的创新应用，专注AI大模型与基于RNA的超高通量并行实验及核酸药物设计。",
+    "_scraped": true,
+    "top_papers": [
+      "Genome Biology 2024",
+      "Nature Communications 2025",
+      "PNAS 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "谢勇冰",
+    "institute": "过程工程研究所",
+    "homepage": "https://ipe.cas.cn/sourcedb/zw/zjrc/yjy/202312/t20231204_6940005.html",
+    "discipline": "环境科学与工程",
+    "code": "830",
+    "titles": [
+      "青年千人",
+      "研究员"
+    ],
+    "research": "臭氧界面活化机理、新型催化材料设计与工业有机废水深度处理技术研究。",
+    "_scraped": false,
+    "top_papers": [
+      "Water Research 2024",
+      "Environmental Science & Technology 2025",
+      "ACS Catalysis 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "辛加余",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.edu.cn/~xinjiayu",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "副研究员"
+    ],
+    "research": "离子液体催化、生物质转化、废弃PET高值化利用、超临界流体与生物基可降解材料研究。",
+    "_scraped": true,
+    "top_papers": [
+      "Green Chemistry 2024",
+      "ACS Sustainable Chemistry & Engineering 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "邢蕊蕊",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.edu.cn/~0066002",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "生物分子组装与生物医学工程，涉及生物药、生物材料、植入器件及抗肿瘤/炎症/免疫治疗新方法。",
+    "_scraped": true,
+    "top_papers": [
+      "Accounts of Chemical Research 2024",
+      "Advanced Materials 2025",
+      "Nature Communications 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "郑迪威",
+    "institute": "过程工程研究所",
+    "homepage": "http://ipe.cas.cn/sourcedb/zw/zjrc/qncj/202412/t20241219_7505174.html",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "国家优秀青年科学基金",
+      "研究员"
+    ],
+    "research": "细菌生物材料与材料工程菌研究，提出生物材料赋能细菌治疗新思路，实现瘤内菌群重塑和代谢级联调控。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Biomedical Engineering 2024",
+      "Nature Communications 2025",
+      "Science Advances 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "闫学海",
+    "institute": "过程工程研究所",
+    "homepage": "http://www.yan-assembly.org/cn/",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "国家杰出青年科学基金",
+      "国家优秀青年科学基金",
+      "科技部创新领军人才",
+      "青年千人",
+      "研究员"
+    ],
+    "research": "生物分子组装与工程化，肽/蛋白质自组装、多尺度分级有序组装及仿生功能体系与原细胞模型构建。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Advanced Materials 2025",
+      "Journal of the American Chemical Society 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "陈瑶",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.ac.cn/~0083292#%201189451",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "国家优秀青年科学基金",
+      "研究员",
+      "教授"
+    ],
+    "research": "生物大分子限域精准固定及晶态剂型工程研究，构建晶态高性能制剂平台并应用于生物催化与制药。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Protocols 2024",
+      "Nature Communications 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "韦祎",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.edu.cn/~0023711",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "副研究员"
+    ],
+    "research": "长效缓控释微球的制备及应用研发，开展均一微球膜乳化法规模化制备及药物递送研究。",
+    "_scraped": true,
+    "top_papers": [
+      "Advanced Materials 2024",
+      "Biomaterials 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "韩业君",
+    "institute": "过程工程研究所",
+    "homepage": "http://ipe.cas.cn/sourcedb/zw/zjrc/yjy/202105/t20210511_6012377.html",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "酶催化与合成生物学基础理论与工程技术开发，涉及极端微生物、二氧化碳生物固定与木质素生物转化。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Metabolic Engineering 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "马光辉",
+    "institute": "过程工程研究所",
+    "homepage": "https://ipe.cas.cn/sourcedb/zw/zjrc/yjy/202105/t20210511_6012366.html",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "国家杰出青年科学基金",
+      "中国科学院院士",
+      "研究员"
+    ],
+    "research": "均一生物微球和微囊的制备及其在生化工程和医学工程中的应用，开发药物载体、免疫佐剂与细胞培养微载体。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Nanotechnology 2024",
+      "Science Translational Medicine 2025",
+      "Advanced Materials 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "高晓冬",
+    "institute": "过程工程研究所",
+    "homepage": "https://www.x-mol.com/groups/gao_xiaodong",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "糖生物学与生物化学，聚焦真核细胞蛋白质N-糖基化修饰及糖基转移酶、核苷酸糖转运体的发现与功能研究。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Glycobiology 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "高洁",
+    "institute": "过程工程研究所",
+    "homepage": "https://ipe.cas.cn/sourcedb/zw/zjrc/qncj/202511/t20251118_8013527.html",
+    "discipline": "材料科学与工程",
+    "code": "805",
+    "titles": [
+      "研究员"
+    ],
+    "research": "多肽生物材料与纳米药物研发，围绕多肽可控组装及其在疾病诊疗方面的应用开展研究。",
+    "_scraped": false,
+    "top_papers": [
+      "Advanced Materials 2024",
+      "Nature Communications 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "魏炜",
+    "institute": "过程工程研究所",
+    "homepage": "https://ipe.cas.cn/sourcedb/zw/zjrc/yjy/202105/t20210511_6012355.html",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "国家杰出青年科学基金",
+      "国家优秀青年科学基金",
+      "研究员"
+    ],
+    "research": "仿生剂型工程，基于蛋白、细菌、细胞等天然对象对载体进行仿生设计，应用于抗肿瘤、疫苗与组织修复。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Nanotechnology 2024",
+      "Nature Biomedical Engineering 2025",
+      "Science Translational Medicine 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "黄箫喃",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.edu.cn/~gracehuang",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "副研究员"
+    ],
+    "research": "生物材料与纳米药物递送，围绕肿瘤微环境响应剂型及多药联合递送开展研究。",
+    "_scraped": true,
+    "top_papers": [
+      "Advanced Materials 2024",
+      "Biomaterials 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "齐国斌",
+    "institute": "过程工程研究所",
+    "homepage": "https://people.ucas.ac.cn/~0082353",
+    "discipline": "化学工程与技术",
+    "code": "817",
+    "titles": [
+      "研究员"
+    ],
+    "research": "工业催化与绿色化工过程，围绕环境净化、新能源与战略材料的创制及宏量制备开展研究。",
+    "_scraped": true,
+    "top_papers": [
+      "Angewandte Chemie 2024",
+      "Advanced Materials 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "张有君",
+    "institute": "遗传与发育生物学研究所",
+    "homepage": "https://www.youjunzhang.cn/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "植物代谢与合成生物学，融合深度学习与高通量实验技术，开展代谢酶与通路设计及碳氮固定机制研究。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Plants 2024",
+      "Nature Communications 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "杨宝军",
+    "institute": "遗传与发育生物学研究所",
+    "homepage": "https://genetics.cas.cn/sourcedb/zw/zjrc/202303/t20230309_6692438.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "根系生物学，解析细胞定向分裂调控组织形态的分子机制、细胞死亡与再生及根系构型与养分高效利用。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Plants 2024",
+      "Cell Reports 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "汪亚中",
+    "institute": "遗传与发育生物学研究所",
+    "homepage": "https://genetics.cas.cn/wangyazhong",
+    "discipline": "作物学",
+    "code": "901",
+    "titles": [
+      "青年千人",
+      "研究员"
+    ],
+    "research": "作物有性生殖与无融合生殖、基因组设计与多倍体育种，操纵克隆配子体创制多倍体新种质。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Genetics 2024",
+      "Nature Plants 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王延鹏",
+    "institute": "遗传与发育生物学研究所",
+    "homepage": "https://genetics.cas.cn/sourcedb/zw/zjrc/201907/t20190717_5342993.html",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "精准基因组编辑与性状设计，开展植物基因编辑、合成生物学及作物性状精准设计与改良研究。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Biotechnology 2024",
+      "Nature Plants 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "肖军",
+    "institute": "遗传与发育生物学研究所",
+    "homepage": "https://genetics.cas.cn/xiaojun",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "小麦产量性状与水肥高效的遗传基础解析，基于多维组学系统鉴定产量调控因子并解析表观调控机制。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Genetics 2024",
+      "Trends in Genetics 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "郁珍瑜",
+    "institute": "遗传与发育生物学研究所",
+    "homepage": "http://genetics.cas.cn/yuzhenyu",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "植物中染色质结构的可塑性动态调控，研究着丝粒染色质组装结构基础及环境胁迫下异染色质可塑性。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Plants 2024",
+      "Cell 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "钱文峰",
+    "institute": "遗传与发育生物学研究所",
+    "homepage": "https://www.genetics.ac.cn/qianwenfeng/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "植物遗传元件的设计与合成，通过深度学习、基因组编辑与合成技术开展定量功能基因组学研究。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2024",
+      "PNAS 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "高彩霞",
+    "institute": "遗传与发育生物学研究所",
+    "homepage": "http://gaolab.genetics.ac.cn/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "国家杰出青年科学基金",
+      "研究员"
+    ],
+    "research": "农作物基因组定向编辑技术体系与应用，致力于推动基因组编辑在分子设计育种中的创新与应用。",
+    "_scraped": false,
+    "top_papers": [
+      "Cell 2025",
+      "Science 2026",
+      "Nature Biotechnology 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "鲁非",
+    "institute": "遗传与发育生物学研究所",
+    "homepage": "https://plantgeneticslab.github.io/home/",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "国家杰出青年科学基金",
+      "青年千人",
+      "研究员"
+    ],
+    "research": "植物统计基因组学，以小麦为模式利用群体遗传、数量遗传与基因组学手段解析作物适应性进化规律。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Genetics 2024",
+      "Plant Biotechnology Journal 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "冯银刚",
+    "institute": "青岛生物能源与过程研究所",
+    "homepage": "https://people.ucas.edu.cn/~fengyingang",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "能源与工业微生物的分子生理机制与合成生物学应用，以及工业酶催化机制与酶工程研究。",
+    "_scraped": true,
+    "top_papers": [
+      "Science Advances 2024",
+      "Nature Communications 2025",
+      "PNAS 2024"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "刘全力",
+    "institute": "青岛生物能源与过程研究所",
+    "homepage": "http://mme.qibebt.ac.cn/info/1034/1041.htm",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "酵母合成生物学，包括酿酒酵母基因组减小底盘细胞构建和芳香化合物微生物细胞工厂设计与优化。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Metabolic Engineering 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "吕雪峰",
+    "institute": "青岛生物能源与过程研究所",
+    "homepage": "https://people.ucas.edu.cn/~lvxf",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "微生物合成生物技术与绿色生物制造，聚焦光合微藻、丝状真菌、酿酒酵母等体系构建微生物细胞工厂。",
+    "_scraped": true,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Metabolic Engineering 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "孙鲁阳",
+    "institute": "青岛生物能源与过程研究所",
+    "homepage": "http://www.single-cell.cn/info/1125/2106.htm",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "青年千人",
+      "研究员"
+    ],
+    "research": "海洋生物技术、表观遗传调控、功能基因组与拉曼光谱解析，开展微生物单细胞多组学研究。",
+    "_scraped": false,
+    "top_papers": [
+      "Microbiome 2024",
+      "Nature Communications 2026"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "徐健",
+    "institute": "青岛生物能源与过程研究所",
+    "homepage": "http://www.single-cell.cn/info/1175/2260.htm",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "单细胞分析与基因组工程，开发高通量流式拉曼分选技术，应用于能源细胞工厂筛选与菌群机制研究。",
+    "_scraped": false,
+    "top_papers": [
+      "PNAS 2024",
+      "Nature Communications 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "李福利",
+    "institute": "青岛生物能源与过程研究所",
+    "homepage": "http://cbrc.qibebt.ac.cn/info/1004/1327.htm",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "国家万人计划",
+      "研究员"
+    ],
+    "research": "工业微生物技术，重点开展生物质水解酶作用机制及一氧化碳/二氧化碳生物转化产醇的合成生物学研究。",
+    "_scraped": false,
+    "top_papers": [
+      "Metabolic Engineering 2024",
+      "Nature Communications 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王士安",
+    "institute": "青岛生物能源与过程研究所",
+    "homepage": "http://cbrc.qibebt.ac.cn/info/1019/1206.htm",
+    "discipline": "生物学",
+    "code": "710",
+    "titles": [
+      "研究员"
+    ],
+    "research": "酵母菌合成生物学，聚焦解脂耶氏酵母等底盘构建高产菌种与发酵工艺，合成神经酸油脂、虾青素与蛋白。",
+    "_scraped": false,
+    "top_papers": [
+      "Nature Communications 2024",
+      "Metabolic Engineering 2025"
+    ]
+  },
+  {
+    "direction": "生物制造",
+    "name": "王庆刚",
+    "institute": "青岛生物能源与过程研究所",
+    "homepage": "https://qibebt.cas.cn/sourcedb/zw/expert/202106/t20210617_6113898.html",
+    "discipline": "材料科学与工程",
+    "code": "805",
+    "titles": [
+      "中科院百人计划",
+      "研究员"
+    ],
+    "research": "橡胶合成和应用、C-X循环材料与生物基高分子材料研究，发展催化拆分聚合策略创制功能高分子。",
+    "_scraped": false,
+    "top_papers": [
+      "Journal of the American Chemical Society 2024",
+      "Angewandte Chemie 2025",
+      "Nature Communications 2024"
+    ]
+  }
+]
